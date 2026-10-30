@@ -160,7 +160,8 @@ button.small{padding:4px 8px;font-size:12px}
     <h2>지도</h2>
     <label>VWorld API 키 (선택 · 국토부 항공사진)</label>
     <div class="row"><input type="text" id="vkey" placeholder="vworld.kr 에서 무료 발급"><button id="vkeySave" class="small" style="flex:0 0 auto">적용</button></div>
-    <div class="hint">기본은 Esri 위성사진입니다. 공개 배포할 좌표는 Esri/VWorld 사진이나 직접 간 기록으로 찍으세요(구글 위성사진에서 좌표를 따내는 건 구글 약관상 제한됩니다).</div>
+    <div class="hint">확대: 트랙패드 핀치·마우스 휠·+ 버튼 (더블클릭은 점 찍기라 확대 안 됨). Esri 사진이 흐리면 오른쪽 위에서 <b>Esri Clarity</b>로 바꿔 보세요. 국내는 <b>VWorld 항공사진</b>이 가장 선명합니다 — vworld.kr 회원가입 → 오픈API → 인증키 발급(서비스 URL에 <code>https://wannawork.github.io</code>) 후 위 칸에 붙여넣기.</div>
+    <div class="hint">공개 배포할 좌표는 Esri/VWorld 사진이나 직접 간 기록으로 찍으세요(구글·카카오·네이버 지도에서 좌표를 따내 공개하는 건 각 약관상 제한됩니다).</div>
   </section>
 </aside>
 
@@ -225,25 +226,47 @@ function persist(){
 }
 
 // ── 지도 ──
-const map = L.map('map', { zoomControl:true, doubleClickZoom:false }).setView(ui.view?.c || [36.3, 127.8], ui.view?.z || 7);
+// 확대: 최대 22단계까지. 사진이 없는 단계는 마지막 사진을 늘려서 보여줌(빈 화면 방지). 0.5단계씩 세밀하게.
+const map = L.map('map', { zoomControl:true, doubleClickZoom:false, maxZoom:22, zoomSnap:0.5, zoomDelta:0.5, wheelPxPerZoomLevel:90 })
+  .setView(ui.view?.c || [36.3, 127.8], ui.view?.z || 7);
+const ZO = { maxZoom:22 };
 const esri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-  { maxZoom:20, maxNativeZoom:19, attribution:'Imagery © Esri, Maxar, Earthstar Geographics' });
+  { ...ZO, maxNativeZoom:18, attribution:'Imagery © Esri, Maxar, Earthstar Geographics' });
+const esriClarity = L.tileLayer('https://clarity.maptiles.arcgis.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+  { ...ZO, maxNativeZoom:18, attribution:'Imagery © Esri (Clarity)' });
 const esriLabels = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}',
-  { maxZoom:20, maxNativeZoom:19 });
-const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom:20, maxNativeZoom:19, attribution:'© OpenStreetMap' });
-let vworld = null;
-const layers = L.control.layers({ '위성 (Esri)': esri, '일반 지도 (OSM)': osm }, { '지명 표시': esriLabels }).addTo(map);
-esri.addTo(map);
+  { ...ZO, maxNativeZoom:18 });
+const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { ...ZO, maxNativeZoom:19, attribution:'© OpenStreetMap' });
+let vworld = null, vworldLabels = null;
+const baseLayers = { '위성 (Esri)': esri, '위성 (Esri Clarity · 다른 촬영본)': esriClarity, '일반 지도 (OSM)': osm };
+const layers = L.control.layers(baseLayers, { '지명 표시': esriLabels }, { collapsed: window.innerWidth < 820 }).addTo(map);
 function setVworld(key){
   if (vworld){ layers.removeLayer(vworld); map.removeLayer(vworld); vworld=null; }
+  if (vworldLabels){ layers.removeLayer(vworldLabels); map.removeLayer(vworldLabels); vworldLabels=null; }
   if (!key) return;
-  vworld = L.tileLayer(`https://api.vworld.kr/req/wmts/1.0.0/${encodeURIComponent(key)}/Satellite/{z}/{y}/{x}.jpeg`,
-    { maxZoom:20, maxNativeZoom:19, attribution:'© VWorld (국토교통부)' });
-  layers.addBaseLayer(vworld, '항공사진 (VWorld)');
+  const k = encodeURIComponent(key);
+  vworld = L.tileLayer(`https://api.vworld.kr/req/wmts/1.0.0/${k}/Satellite/{z}/{y}/{x}.jpeg`,
+    { ...ZO, maxNativeZoom:19, attribution:'© VWorld (국토교통부)' });
+  vworldLabels = L.tileLayer(`https://api.vworld.kr/req/wmts/1.0.0/${k}/Hybrid/{z}/{y}/{x}.png`, { ...ZO, maxNativeZoom:19 });
+  layers.addBaseLayer(vworld, '항공사진 (VWorld · 국내 고해상도)');
+  layers.addOverlay(vworldLabels, 'VWorld 지명·도로');
 }
 $('vkey').value = store.get('ce_vkey','');
 setVworld($('vkey').value.trim());
-$('vkeySave').onclick = () => { const k=$('vkey').value.trim(); store.set('ce_vkey',k); setVworld(k); toast(k?'VWorld 레이어를 추가했습니다 (오른쪽 위 레이어 메뉴)':'VWorld 키를 지웠습니다'); };
+// 마지막으로 고른 지도 기억
+const savedBase = store.get('ce_base', vworld ? 'vworld' : 'esri');
+({ esri, clarity:esriClarity, osm, vworld }[savedBase] || esri).addTo(map);
+map.on('baselayerchange', e => {
+  const name = e.layer===esri?'esri':e.layer===esriClarity?'clarity':e.layer===osm?'osm':e.layer===vworld?'vworld':'esri';
+  store.set('ce_base', name);
+});
+$('vkeySave').onclick = () => {
+  const k=$('vkey').value.trim(); store.set('ce_vkey',k);
+  map.eachLayer(l => { if (l===vworld) map.removeLayer(l); });
+  setVworld(k);
+  if (k){ [esri,esriClarity,osm].forEach(l=>map.removeLayer(l)); vworld.addTo(map); store.set('ce_base','vworld'); toast('VWorld 항공사진으로 바꿨습니다'); }
+  else { if (!map.hasLayer(esriClarity) && !map.hasLayer(osm)) esri.addTo(map); toast('VWorld 키를 지웠습니다'); }
+};
 map.on('moveend', () => { ui.view = { c:[map.getCenter().lat, map.getCenter().lng], z:map.getZoom() }; store.set('ce_ui', ui); });
 
 const drawLayer = L.layerGroup().addTo(map);
