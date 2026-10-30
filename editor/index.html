@@ -79,13 +79,13 @@ button.small{padding:4px 8px;font-size:12px}
 
   <section>
     <h2>골프장</h2>
-    <label>이름</label>
-    <input type="text" id="cName" placeholder="예: 보문GC">
+    <label>정식 명칭 <span style="font-weight:400">(앱에 이 이름으로 표시)</span></label>
+    <input type="text" id="cName" placeholder="예: 보문컨트리클럽">
     <div class="row">
       <div><label>파일 ID (영문)</label><input type="text" id="cId" placeholder="자동"></div>
       <div><label>지역</label><input type="text" id="cRegion" placeholder="경북 경주시"></div>
     </div>
-    <label>다른 이름 (쉼표로 구분)</label>
+    <label>다른 이름 (쉼표로 구분 · 이름을 바꾸면 예전 이름이 자동으로 들어감)</label>
     <input type="text" id="cAliases" placeholder="보문gc, 보문골프클럽">
     <div class="row" style="margin-top:8px">
       <input type="text" id="search" placeholder="골프장 검색해서 이동">
@@ -417,7 +417,17 @@ function validate(){
 }
 
 // ── 입력 이벤트 ──
-$('cName').oninput = e => { const old=course.name; course.name=e.target.value.trim(); if (!course.id || course.id===slug(old)) course.id = slug(course.name); $('cId').value=course.id; persist(); $('mapbar').innerHTML = course.name ? `<b>${ui.hole}번</b> 위치를 지도에서 클릭하세요` : '먼저 왼쪽에서 골프장 이름을 입력하세요'; validate(); };
+$('cName').oninput = e => {
+  const old=course.name; course.name=e.target.value.trim();
+  // 새로 만드는 골프장만 파일 ID 가 이름을 따라감. 불러온 골프장은 ID 고정(같은 파일로 갱신되도록)
+  if (!course._loaded && (!course.id || course.id===slug(old))) course.id = slug(course.name);
+  // 불러온 골프장 이름을 바꾸면 원래 이름은 "다른 이름"으로 보존 → 핸드폰의 과거 기록과 계속 연결
+  if (course._loaded && course._origName && course._origName!==course.name){
+    course.aliases = course.aliases||[];
+    if (!course.aliases.includes(course._origName)) course.aliases.push(course._origName);
+    $('cAliases').value = course.aliases.join(', ');
+  }
+  $('cId').value=course.id; persist(); $('mapbar').innerHTML = course.name ? `<b>${ui.hole}번</b> 위치를 지도에서 클릭하세요` : '먼저 왼쪽에서 골프장 이름을 입력하세요'; validate(); };
 $('cId').oninput = e => { course.id = e.target.value.trim().toLowerCase().replace(/[^a-z0-9-]/g,'-'); persist(); };
 $('cRegion').oninput = e => { course.region = e.target.value.trim(); persist(); };
 $('cAliases').oninput = e => { course.aliases = e.target.value.split(',').map(s=>s.trim()).filter(Boolean); persist(); };
@@ -477,6 +487,7 @@ function loadCourseJson(j, fname){
       if (g.length) c.holes[String(+k)] = { tees:[], greens:g };
     }
   } else { toast('코스 파일 형식이 아닙니다'); return; }
+  c._loaded = true; c._origName = c._origName || c.name;
   persist(); course = c;
   const nums=Object.keys(c.holes).map(Number);
   ui.holeCount = Math.min(36, Math.max(9, Math.ceil(Math.max(9,...nums)/9)*9));
@@ -581,7 +592,8 @@ function cleanCourse(){
   const pts=Object.values(holes).flatMap(h=>[...(h.tees||[]),...(h.greens||[])]);
   const loc = pts.length ? { lat:r6(center(pts).lat), lon:r6(center(pts).lon) } : undefined;
   const out = { schemaVersion:2, id: course.id || slug(course.name||'course'), name: course.name };
-  if (course.aliases?.length) out.aliases=course.aliases;
+  const aliases=[...new Set((course.aliases||[]).filter(a => a && a!==course.name))];
+  if (aliases.length) out.aliases=aliases;
   if (course.region) out.region=course.region;
   if (loc) out.location=loc;
   if (course.nines?.some(Boolean)) out.nines=course.nines;
