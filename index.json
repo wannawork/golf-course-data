@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T09:17:03Z",
+  "updatedAt": "2026-10-30T13:21:48Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -10,7 +10,7 @@
         "bnbk파3"
       ],
       "holeCount": 9,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/bnbk-pa-3.json",
       "location": {
         "lat": 35.258212,
@@ -51,7 +51,7 @@
         "힐스카이"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/hilseukai.json",
       "location": {
         "lat": 35.912633,
@@ -62,10 +62,11 @@
       "id": "iseutihil",
       "name": "이스티힐CC",
       "aliases": [
-        "이스티힐"
+        "이스티힐",
+        "이스트힐"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/iseutihil.json",
       "location": {
         "lat": 35.722912,
@@ -79,7 +80,7 @@
         "밀양에스파크컨트리클럽"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/milyangeseupakeukeonteurikeulreop.json",
       "location": {
         "lat": 35.495908,
@@ -91,7 +92,7 @@
       "name": "스톤게이트CC",
       "aliases": [],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T08:15:47Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/seutongeiteu-cc.json",
       "location": {
         "lat": 35.286628,
@@ -105,7 +106,7 @@
         "신라"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/sinra.json",
       "location": {
         "lat": 35.853564,
@@ -119,7 +120,7 @@
         "울산"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/ulsan.json",
       "location": {
         "lat": 35.444854,
@@ -133,7 +134,7 @@
         "양산"
       ],
       "holeCount": 15,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/yangsan.json",
       "location": {
         "lat": 35.398081,
@@ -147,7 +148,7 @@
         "영남알프스"
       ],
       "holeCount": 9,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/yeongnamalpeuseu.json",
       "location": {
         "lat": 35.540815,
@@ -161,7 +162,7 @@
         "용원"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T09:17:03Z",
+      "updatedAt": "2026-10-30T13:21:48Z",
       "file": "courses/yongwon.json",
       "location": {
         "lat": 35.112007,
