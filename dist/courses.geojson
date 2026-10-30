@@ -1230,6 +1230,870 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.296781,
+          35.822985
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.298589,
+          35.820561
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.298286,
+          35.819995
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.302151,
+          35.817445
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.302929,
+          35.817002
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.303744,
+          35.817854
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.304302,
+          35.818632
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.302246,
+          35.820985
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.301825,
+          35.821382
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.303206,
+          35.818903
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.303604,
+          35.818371
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299416,
+          35.819524
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299014,
+          35.819945
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.30137,
+          35.821671
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.300979,
+          35.82196
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299822,
+          35.82109
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299265,
+          35.820924
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.297087,
+          35.823531
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.296679,
+          35.824516
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.294502,
+          35.826895
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.295022,
+          35.827369
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299034,
+          35.82402
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299598,
+          35.824307
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.298235,
+          35.826456
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.298874,
+          35.826392
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.29956,
+          35.825257
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.300141,
+          35.825488
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299636,
+          35.829347
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.300296,
+          35.829643
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.300262,
+          35.828536
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.300956,
+          35.828508
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.30077,
+          35.823987
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.299784,
+          35.823427
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3014,
+          35.823427
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.301116,
+          35.822714
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.297531,
+          35.823913
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.296154,
+          35.82407
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293742,
+          35.826278
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 19,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293806,
+          35.826992
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.294618,
+          35.828357
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 20,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.295092,
+          35.82872
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.29756,
+          35.82693
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 21,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.298455,
+          35.827309
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.295339,
+          35.829569
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 22,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.29406,
+          35.829166
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.29202,
+          35.82666
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 23,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.291629,
+          35.825583
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.292251,
+          35.821619
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 24,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.292892,
+          35.821321
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293096,
+          35.823774
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 25,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293633,
+          35.824346
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.292938,
+          35.825493
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 26,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293536,
+          35.825586
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.295751,
+          35.823624
+        ]
+      },
+      "properties": {
+        "courseId": "gangdongdianeoseu-cc",
+        "course": "강동디아너스CC",
+        "hole": 27,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.310058,
           35.364215
         ]
@@ -1896,8 +2760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.262951,
-          35.864084
+          129.262946,
+          35.864064
         ]
       },
       "properties": {
@@ -1912,15 +2776,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.263651,
-          35.861279
+          129.263697,
+          35.861282
         ]
       },
       "properties": {
         "courseId": "gyeongju-cc",
         "course": "경주CC",
         "hole": 1,
-        "type": "green"
+        "type": "green",
+        "label": "A"
       }
     },
     {
@@ -1928,8 +2793,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.264744,
-          35.860713
+          129.264054,
+          35.861365
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 1,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.264649,
+          35.860744
         ]
       },
       "properties": {
@@ -1944,8 +2826,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.266138,
-          35.857286
+          129.266419,
+          35.858227
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 2,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266392,
+          35.857787
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 2,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266104,
+          35.857277
         ]
       },
       "properties": {
@@ -1960,8 +2876,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.263489,
-          35.861075
+          129.263771,
+          35.860434
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 3,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263931,
+          35.86068
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 3,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263421,
+          35.861056
         ]
       },
       "properties": {
@@ -1976,8 +2926,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.261432,
-          35.861996
+          129.261974,
+          35.861724
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 4,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261993,
+          35.862007
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 4,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261408,
+          35.862019
         ]
       },
       "properties": {
@@ -1992,8 +2976,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.259324,
-          35.864374
+          129.259831,
+          35.864433
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 5,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260046,
+          35.864733
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 5,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.259334,
+          35.864414
         ]
       },
       "properties": {
@@ -2008,8 +3026,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.255145,
-          35.867894
+          129.255845,
+          35.867611
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 6,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255755,
+          35.867939
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 6,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255129,
+          35.867931
         ]
       },
       "properties": {
@@ -2024,8 +3076,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.255875,
-          35.86844
+          129.254901,
+          35.869118
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 7,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255247,
+          35.869257
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 7,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255903,
+          35.868491
         ]
       },
       "properties": {
@@ -2040,8 +3126,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.260404,
-          35.866436
+          129.259463,
+          35.866851
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 8,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.259408,
+          35.866538
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 8,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260445,
+          35.86649
         ]
       },
       "properties": {
@@ -2056,8 +3176,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.263216,
-          35.86571
+          129.262099,
+          35.863866
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 9,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261939,
+          35.863575
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 9,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263316,
+          35.865675
         ]
       },
       "properties": {
@@ -2072,8 +3226,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.26623,
-          35.8693
+          129.266349,
+          35.867395
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 10,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26633,
+          35.867052
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 10,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266178,
+          35.869316
         ]
       },
       "properties": {
@@ -2081,6 +3269,40 @@
         "course": "경주CC",
         "hole": 11,
         "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263794,
+          35.870744
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 11,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263856,
+          35.87095
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 11,
+        "type": "green",
+        "label": "B"
       }
     },
     {
@@ -2104,8 +3326,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.25572,
-          35.874312
+          129.257989,
+          35.873835
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 12,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.258257,
+          35.874016
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 12,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255675,
+          35.87427
         ]
       },
       "properties": {
@@ -2120,8 +3376,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.252579,
-          35.873301
+          129.252337,
+          35.874403
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 13,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.25238,
+          35.874657
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 13,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.252591,
+          35.873251
         ]
       },
       "properties": {
@@ -2136,8 +3426,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.257277,
-          35.873583
+          129.254015,
+          35.873025
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 14,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.254053,
+          35.872816
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 14,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.257303,
+          35.873601
         ]
       },
       "properties": {
@@ -2152,8 +3476,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.262097,
-          35.871034
+          129.261545,
+          35.87166
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 15,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261459,
+          35.871392
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 15,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.262146,
+          35.871075
         ]
       },
       "properties": {
@@ -2168,8 +3526,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.266823,
-          35.866509
+          129.26493,
+          35.869662
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 16,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.264965,
+          35.869397
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 16,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266788,
+          35.866519
         ]
       },
       "properties": {
@@ -2184,15 +3576,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.268278,
-          35.866046
+          129.268393,
+          35.866261
         ]
       },
       "properties": {
         "courseId": "gyeongju-cc",
         "course": "경주CC",
         "hole": 17,
-        "type": "green"
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.268337,
+          35.866013
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 17,
+        "type": "green",
+        "label": "B"
       }
     },
     {
@@ -2201,7 +3611,7 @@
         "type": "Point",
         "coordinates": [
           129.268827,
-          35.865434
+          35.865465
         ]
       },
       "properties": {
@@ -2209,6 +3619,490 @@
         "course": "경주CC",
         "hole": 18,
         "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26533,
+          35.865775
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 18,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.265351,
+          35.866001
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260778,
+          35.86693
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261851,
+          35.869684
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 19,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26206,
+          35.869782
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 19,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26199,
+          35.870477
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260376,
+          35.870338
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 20,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260529,
+          35.870543
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 20,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.258697,
+          35.870901
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256226,
+          35.872981
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 21,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256387,
+          35.873259
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 21,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255998,
+          35.873925
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.252443,
+          35.872656
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 22,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.252405,
+          35.872919
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 22,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.251882,
+          35.872301
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.254311,
+          35.870095
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 23,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.254201,
+          35.869734
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 23,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.254397,
+          35.869104
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255985,
+          35.871801
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 24,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256304,
+          35.871773
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 24,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256835,
+          35.871838
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.257841,
+          35.87084
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 25,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.257723,
+          35.870617
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 25,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260054,
+          35.869682
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256363,
+          35.870108
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 26,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.256302,
+          35.870384
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 26,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255797,
+          35.869936
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.258364,
+          35.867889
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 27,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.258058,
+          35.867913
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 27,
+        "type": "green",
+        "label": "B"
       }
     },
     {
@@ -3474,6 +5368,870 @@
         "courseId": "iseutihil",
         "course": "이스티힐CC",
         "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371687,
+          35.683899
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37117,
+          35.681154
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370515,
+          35.681424
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370593,
+          35.683677
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370953,
+          35.684235
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370405,
+          35.687784
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370923,
+          35.688738
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371889,
+          35.689121
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371687,
+          35.690084
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371009,
+          35.692287
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371135,
+          35.692986
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.373399,
+          35.694465
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.373281,
+          35.693478
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372256,
+          35.692683
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371642,
+          35.692633
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372996,
+          35.688823
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371607,
+          35.687762
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37224,
+          35.684751
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372876,
+          35.684614
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37209,
+          35.688015
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372815,
+          35.688153
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.374004,
+          35.688389
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37357,
+          35.689124
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.373053,
+          35.691786
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372642,
+          35.692097
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.374702,
+          35.694138
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37533,
+          35.693378
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.375003,
+          35.690956
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.375362,
+          35.690553
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.374134,
+          35.689897
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.374386,
+          35.6893
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.375697,
+          35.685324
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.375094,
+          35.685446
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.374118,
+          35.687666
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37345,
+          35.687455
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.373578,
+          35.684586
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.369287,
+          35.693437
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370539,
+          35.69629
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 19,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.369866,
+          35.696858
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371362,
+          35.696921
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 20,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.371899,
+          35.696645
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.375216,
+          35.698283
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 21,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.377323,
+          35.697987
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.382449,
+          35.695539
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 22,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.38172,
+          35.694529
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.378795,
+          35.696319
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 23,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.377926,
+          35.696347
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.378478,
+          35.695464
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 24,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.378251,
+          35.694993
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.376536,
+          35.697471
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 25,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.376138,
+          35.697848
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.372709,
+          35.696254
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 26,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.37422,
+          35.696
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.370055,
+          35.693425
+        ]
+      },
+      "properties": {
+        "courseId": "maunaosyeon-cc",
+        "course": "마우나오션CC",
+        "hole": 27,
         "type": "green"
       }
     },
@@ -5578,6 +8336,906 @@
         "courseId": "sinra",
         "course": "경주신라CC",
         "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285406,
+          35.85169
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284655,
+          35.854574
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 19,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284937,
+          35.854642
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 19,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.28469,
+          35.855155
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.280994,
+          35.856161
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 20,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281002,
+          35.856351
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 20,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281359,
+          35.857072
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.280727,
+          35.858186
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 21,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.280983,
+          35.858497
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 21,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281607,
+          35.858981
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281139,
+          35.863265
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 22,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281351,
+          35.863411
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 22,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.281796,
+          35.863872
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.283354,
+          35.861955
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 23,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.28311,
+          35.861796
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 23,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.283403,
+          35.861196
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284492,
+          35.861718
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 24,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284773,
+          35.861466
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 24,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284779,
+          35.860818
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.283215,
+          35.85797
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 25,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.282936,
+          35.857733
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 25,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2827,
+          35.857103
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286101,
+          35.855305
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 26,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285782,
+          35.855124
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 26,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286278,
+          35.854622
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286117,
+          35.851911
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 27,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285881,
+          35.851777
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 27,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.287021,
+          35.850994
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 28,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288799,
+          35.853655
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 28,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.289027,
+          35.853757
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 28,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288936,
+          35.854703
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 29,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293447,
+          35.853374
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 29,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.293222,
+          35.853135
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 29,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.294038,
+          35.853092
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 30,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.29176,
+          35.854857
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 30,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.291506,
+          35.855133
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 30,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.290406,
+          35.855598
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 31,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288633,
+          35.856074
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 31,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288711,
+          35.856337
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 31,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288032,
+          35.856157
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 32,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285221,
+          35.860061
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 32,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285371,
+          35.860287
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 32,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284856,
+          35.85999
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 33,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286184,
+          35.857918
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 33,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286165,
+          35.857607
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 33,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.285809,
+          35.857255
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 34,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284363,
+          35.857668
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 34,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284481,
+          35.857903
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 34,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.284411,
+          35.857042
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 35,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.287734,
+          35.855492
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 35,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.287702,
+          35.855235
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 35,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.288072,
+          35.854024
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 36,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286876,
+          35.85155
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 36,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.286498,
+          35.8514
+        ]
+      },
+      "properties": {
+        "courseId": "sinra",
+        "course": "경주신라CC",
+        "hole": 36,
         "type": "green",
         "label": "B"
       }

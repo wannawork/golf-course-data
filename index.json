@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T13:34:04Z",
+  "updatedAt": "2026-10-30T14:24:12Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -33,6 +33,18 @@
       }
     },
     {
+      "id": "gangdongdianeoseu-cc",
+      "name": "강동디아너스CC",
+      "aliases": [],
+      "holeCount": 27,
+      "updatedAt": "2026-10-30T14:13:54Z",
+      "file": "courses/gangdongdianeoseu-cc.json",
+      "location": {
+        "lat": 35.823933,
+        "lon": 129.298048
+      }
+    },
+    {
       "id": "golpeujonkauntideogolpeu",
       "name": "골프존카운티더골프",
       "aliases": [],
@@ -50,13 +62,13 @@
       "aliases": [
         "경주"
       ],
-      "holeCount": 18,
-      "updatedAt": "2026-10-30T13:31:59Z",
+      "holeCount": 27,
+      "updatedAt": "2026-10-30T13:52:46Z",
       "file": "courses/gyeongju-cc.json",
       "region": "경북 경주시",
       "location": {
-        "lat": 35.866535,
-        "lon": 129.261817
+        "lat": 35.868203,
+        "lon": 129.259937
       }
     },
     {
@@ -86,6 +98,18 @@
       "location": {
         "lat": 35.722912,
         "lon": 129.374493
+      }
+    },
+    {
+      "id": "maunaosyeon-cc",
+      "name": "마우나오션CC",
+      "aliases": [],
+      "holeCount": 27,
+      "updatedAt": "2026-10-30T14:23:41Z",
+      "file": "courses/maunaosyeon-cc.json",
+      "location": {
+        "lat": 35.691138,
+        "lon": 129.373594
       }
     },
     {
@@ -120,12 +144,12 @@
       "aliases": [
         "신라"
       ],
-      "holeCount": 18,
-      "updatedAt": "2026-10-30T13:21:48Z",
+      "holeCount": 36,
+      "updatedAt": "2026-10-30T14:00:27Z",
       "file": "courses/sinra.json",
       "location": {
-        "lat": 35.853564,
-        "lon": 129.285467
+        "lat": 35.855119,
+        "lon": 129.285598
       }
     },
     {
