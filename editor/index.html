@@ -56,6 +56,17 @@ button.small{padding:4px 8px;font-size:12px}
 .ok{color:var(--accent);font-size:12px}
 .hint{color:var(--muted);font-size:12px;margin-top:6px}
 .chk{display:flex;gap:6px;align-items:center;font-size:13px;margin-top:6px;color:var(--ink)}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:3000;display:flex;align-items:center;justify-content:center;padding:16px}
+.modal[hidden]{display:none}
+.sheet{background:var(--panel);color:var(--ink);border-radius:14px;width:min(440px,100%);max-height:min(640px,90vh);display:flex;flex-direction:column;padding:14px;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+.sheet-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;font-size:15px}
+#pickSearch{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--bg);color:var(--ink);font:inherit}
+.pick-count{font-size:12px;color:var(--muted);margin:8px 2px 4px}
+.pick-list{list-style:none;margin:0;padding:0;overflow-y:auto;flex:1}
+.pick-list li{padding:10px 8px;border-bottom:1px solid var(--line);cursor:pointer;border-radius:8px}
+.pick-list li:hover,.pick-list li.active{background:var(--soft)}
+.pick-list .nm{font-weight:600}
+.pick-list .meta{font-size:12px;color:var(--muted)}
 .toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 14px;border-radius:10px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:2000}
 .toast.show{opacity:.95}
 .lbl{background:none;border:none;box-shadow:none;font-weight:700;font-size:12px;color:#fff;text-shadow:0 0 3px #000,0 0 3px #000}
@@ -96,7 +107,7 @@ button.small{padding:4px 8px;font-size:12px}
       <button id="openBtn" class="small">파일 열기</button>
       <button id="draftBtn" class="small">임시저장 목록</button>
     </div>
-    <button id="publicBtn" class="small" style="width:100%;margin-top:6px">공개 데이터에서 골프장 열기</button>
+    <button id="publicBtn" class="small" style="width:100%;margin-top:6px">골프장 데이터 열기</button>
     <input type="file" id="openFile" accept=".json,application/json" multiple hidden>
   </section>
 
@@ -171,6 +182,17 @@ button.small{padding:4px 8px;font-size:12px}
 </div>
 </div>
 <div class="toast" id="toast"></div>
+<div class="modal" id="pick" hidden>
+  <div class="sheet" role="dialog" aria-label="골프장 데이터 열기">
+    <div class="sheet-head">
+      <b>골프장 데이터 열기</b>
+      <button id="pickClose" class="small" aria-label="닫기">닫기</button>
+    </div>
+    <input type="search" id="pickSearch" placeholder="골프장 이름·지역 검색 (예: 보문, 경주)" autocomplete="off">
+    <div class="pick-count" id="pickCount"></div>
+    <ul class="pick-list" id="pickList"></ul>
+  </div>
+</div>
 
 <script>
 (() => {
@@ -512,17 +534,43 @@ $('draftBtn').onclick = () => {
 
 // ── 공개 데이터(GitHub)에서 열기 — 어느 PC 에서든 최신 좌표에서 이어서 작업 ──
 const DATA_BASE = 'https://raw.githubusercontent.com/wannawork/golf-course-data/main/';
+let pickData = [], pickActive = 0;
+const norm = t => (t||'').toLowerCase().replace(/[\s_\-.,·()]/g,'');
+function pickRender(){
+  const q = norm($('pickSearch').value);
+  const rows = pickData.filter(c => !q || [c.name, ...(c.aliases||[]), c.region||''].some(x => norm(x).includes(q)));
+  $('pickCount').textContent = q ? `${rows.length}곳 찾음 (전체 ${pickData.length}곳)` : `전체 ${pickData.length}곳 · 가나다순`;
+  pickActive = Math.min(pickActive, Math.max(0, rows.length-1));
+  $('pickList').innerHTML = rows.length ? rows.map((c,i) => `<li data-i="${pickData.indexOf(c)}" class="${i===pickActive?'active':''}">
+      <div class="nm">${c.name}</div>
+      <div class="meta">${[c.region, `${c.holeCount}홀`, (c.aliases||[]).length ? '다른 이름: '+c.aliases.join(', ') : ''].filter(Boolean).join(' · ')}</div></li>`).join('')
+    : '<li style="cursor:default;color:var(--muted)">찾는 골프장이 없습니다 — <b>새 골프장</b>으로 만들어 주세요</li>';
+  $('pickList').querySelectorAll('li[data-i]').forEach(li => li.onclick = () => pickOpen(pickData[+li.dataset.i]));
+}
+async function pickOpen(e){
+  try{
+    const c = await (await fetch(DATA_BASE + e.file, { cache:'no-store' })).json();
+    $('pick').hidden = true; loadCourseJson(c, e.file);
+  }catch(err){ toast('골프장 파일을 불러오지 못했습니다'); }
+}
 $('publicBtn').onclick = async () => {
   try{
     const idx = await (await fetch(DATA_BASE + 'index.json', { cache:'no-store' })).json();
-    const list = idx.courses || [];
-    if (!list.length){ toast('공개 데이터에 골프장이 없습니다'); return; }
-    const ans = prompt(`열 골프장 번호를 입력하세요:\n\n${list.map((c,i)=>`${i+1}. ${c.name} (${c.holeCount}홀)`).join('\n')}`);
-    const e = list[parseInt(ans,10)-1]; if (!e) return;
-    const c = await (await fetch(DATA_BASE + e.file, { cache:'no-store' })).json();
-    loadCourseJson(c, e.file);
-  }catch(err){ toast('공개 데이터를 불러오지 못했습니다 — 인터넷 연결 또는 저장소를 확인하세요'); }
+    pickData = (idx.courses || []).slice().sort((a,b) => a.name.localeCompare(b.name, 'ko'));
+  }catch(err){ toast('골프장 데이터를 불러오지 못했습니다 — 인터넷 연결을 확인하세요'); return; }
+  $('pickSearch').value = ''; pickActive = 0; pickRender(); $('pick').hidden = false;
+  setTimeout(() => $('pickSearch').focus(), 50);
 };
+$('pickSearch').oninput = () => { pickActive = 0; pickRender(); };
+$('pickSearch').onkeydown = e => {
+  const items = [...$('pickList').querySelectorAll('li[data-i]')];
+  if (e.key==='ArrowDown'){ pickActive=Math.min(pickActive+1, items.length-1); pickRender(); e.preventDefault(); }
+  else if (e.key==='ArrowUp'){ pickActive=Math.max(pickActive-1, 0); pickRender(); e.preventDefault(); }
+  else if (e.key==='Enter' && items[pickActive]) pickOpen(pickData[+items[pickActive].dataset.i]);
+  else if (e.key==='Escape') $('pick').hidden = true;
+};
+$('pickClose').onclick = () => $('pick').hidden = true;
+$('pick').onclick = e => { if (e.target.id==='pick') $('pick').hidden = true; };
 
 // ── 라운드 기록 겹쳐보기 ──
 $('roundBtn').onclick = () => $('roundFile').click();

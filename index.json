@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T13:21:48Z",
+  "updatedAt": "2026-10-30T13:32:30Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -42,6 +42,21 @@
       "location": {
         "lat": 35.362812,
         "lon": 129.311342
+      }
+    },
+    {
+      "id": "gyeongju-cc",
+      "name": "경주CC",
+      "aliases": [
+        "경주"
+      ],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T13:31:59Z",
+      "file": "courses/gyeongju-cc.json",
+      "region": "경북 경주시",
+      "location": {
+        "lat": 35.866535,
+        "lon": 129.261817
       }
     },
     {

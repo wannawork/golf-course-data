@@ -1896,6 +1896,326 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.262951,
+          35.864084
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263651,
+          35.861279
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.264744,
+          35.860713
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266138,
+          35.857286
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263489,
+          35.861075
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.261432,
+          35.861996
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.259324,
+          35.864374
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255145,
+          35.867894
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.255875,
+          35.86844
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.260404,
+          35.866436
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.263216,
+          35.86571
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26623,
+          35.8693
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.26214,
+          35.871899
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.25572,
+          35.874312
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.252579,
+          35.873301
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.257277,
+          35.873583
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.262097,
+          35.871034
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.266823,
+          35.866509
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.268278,
+          35.866046
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.268827,
+          35.865434
+        ]
+      },
+      "properties": {
+        "courseId": "gyeongju-cc",
+        "course": "경주CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.315661,
           35.90945
         ]
