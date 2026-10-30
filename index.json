@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T13:32:30Z",
+  "updatedAt": "2026-10-30T13:34:04Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -177,11 +177,11 @@
         "용원"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T13:21:48Z",
+      "updatedAt": "2026-10-30T13:26:55Z",
       "file": "courses/yongwon.json",
       "location": {
-        "lat": 35.112007,
-        "lon": 128.824158
+        "lat": 35.11199,
+        "lon": 128.824172
       }
     }
   ]

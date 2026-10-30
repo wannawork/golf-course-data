@@ -7365,6 +7365,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          128.823013,
+          35.114651
+        ]
+      },
+      "properties": {
+        "courseId": "yongwon",
+        "course": "용원CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           128.81816,
           35.116882
         ]
@@ -7399,6 +7415,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          128.817424,
+          35.116779
+        ]
+      },
+      "properties": {
+        "courseId": "yongwon",
+        "course": "용원CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           128.820569,
           35.11548
         ]
@@ -7426,6 +7458,22 @@
         "hole": 2,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.820212,
+          35.114683
+        ]
+      },
+      "properties": {
+        "courseId": "yongwon",
+        "course": "용원CC",
+        "hole": 3,
+        "type": "tee"
       }
     },
     {
@@ -7536,7 +7584,7 @@
         "coordinates": [
           128.822666,
           35.109846,
-          169.0
+          169
         ]
       },
       "properties": {
@@ -7848,7 +7896,7 @@
         "coordinates": [
           128.825256,
           35.112394,
-          183.0
+          183
         ]
       },
       "properties": {
@@ -7951,7 +7999,7 @@
         "coordinates": [
           128.828634,
           35.110369,
-          182.0
+          182
         ]
       },
       "properties": {
