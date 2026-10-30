@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-30T08:31:39Z",
+  "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
+  "courses": [
+    {
+      "id": "bnbk-pa-3",
+      "name": "bnbk파3",
+      "aliases": [],
+      "holeCount": 9,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/bnbk-pa-3.json",
+      "location": {
+        "lat": 35.258212,
+        "lon": 129.095488
+      }
+    },
+    {
+      "id": "bomun-gc",
+      "name": "보문GC",
+      "aliases": [
+        "보문gc"
+      ],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/bomun-gc.json",
+      "region": "경북 경주시",
+      "location": {
+        "lat": 35.85976,
+        "lon": 129.273522
+      }
+    },
+    {
+      "id": "hilseukai",
+      "name": "힐스카이",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/hilseukai.json",
+      "location": {
+        "lat": 35.912633,
+        "lon": 129.314671
+      }
+    },
+    {
+      "id": "iseutihil",
+      "name": "이스티힐",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/iseutihil.json",
+      "location": {
+        "lat": 35.722912,
+        "lon": 129.374493
+      }
+    },
+    {
+      "id": "milyangeseupakeukeonteurikeulreop",
+      "name": "밀양에스파크컨트리클럽",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/milyangeseupakeukeonteurikeulreop.json",
+      "location": {
+        "lat": 35.495908,
+        "lon": 128.82709
+      }
+    },
+    {
+      "id": "seutongeiteu-cc",
+      "name": "스톤게이트CC",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/seutongeiteu-cc.json",
+      "location": {
+        "lat": 35.286628,
+        "lon": 129.1981
+      }
+    },
+    {
+      "id": "sinra",
+      "name": "신라",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/sinra.json",
+      "location": {
+        "lat": 35.853564,
+        "lon": 129.285467
+      }
+    },
+    {
+      "id": "ulsan",
+      "name": "울산",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/ulsan.json",
+      "location": {
+        "lat": 35.444854,
+        "lon": 129.184795
+      }
+    },
+    {
+      "id": "yangsan",
+      "name": "양산",
+      "aliases": [],
+      "holeCount": 15,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/yangsan.json",
+      "location": {
+        "lat": 35.398081,
+        "lon": 129.041423
+      }
+    },
+    {
+      "id": "yeongnamalpeuseu",
+      "name": "영남알프스",
+      "aliases": [],
+      "holeCount": 9,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/yeongnamalpeuseu.json",
+      "location": {
+        "lat": 35.540815,
+        "lon": 129.09867
+      }
+    },
+    {
+      "id": "yongwon",
+      "name": "용원",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T08:15:47Z",
+      "file": "courses/yongwon.json",
+      "location": {
+        "lat": 35.112007,
+        "lon": 128.824158
+      }
+    }
+  ]
+}
