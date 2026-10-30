@@ -369,8 +369,8 @@ function render(){
   $('holeCount').value = String(ui.holeCount); $('twoGreen').value = ui.twoGreen?'1':'0';
   // 나인 이름
   const nines = Math.ceil(ui.holeCount/9);
-  $('nineNames').innerHTML = nines>1 ? `<label>9홀 코스 이름 (선택)</label><div class="row">${
-    Array.from({length:nines},(_,i)=>`<input type="text" data-nine="${i}" placeholder="${i*9+1}~${i*9+9}" value="${(course.nines||[])[i]||''}">`).join('')}</div>` : '';
+  $('nineNames').innerHTML = nines>1 ? `<label>9홀 코스 이름 (선택 · 예: 동/서/남)</label><div style="display:grid;grid-template-columns:1fr 1fr;gap:6px">${
+    Array.from({length:nines},(_,i)=>`<input type="text" data-nine="${i}" placeholder="${i+1}코스 (${i*9+1}~${i*9+9})" value="${(course.nines||[])[i]||''}">`).join('')}</div>` : '';
   $('nineNames').querySelectorAll('input').forEach(inp => inp.oninput = () => {
     course.nines = course.nines||[]; course.nines[+inp.dataset.nine] = inp.value.trim();
     while (course.nines.length && !course.nines[course.nines.length-1]) course.nines.pop();
@@ -386,7 +386,21 @@ function render(){
     }
     html += '</div>';
   }
+  // 9홀 코스 추가/빼기 (최대 4코스 = 36홀)
+  const lastNineEmpty = nines>1 && !Array.from({length:9},(_,i)=>(nines-1)*9+i+1).some(n=>holeIfAny(n));
+  html += `<div class="row" style="margin-top:8px">${
+    nines<4 ? `<button id="addNine" class="small">+ ${nines+1}코스 추가 (${nines*9+1}~${nines*9+9}번)</button>` : ''}${
+    lastNineEmpty ? `<button id="delNine" class="small" style="flex:0 0 auto">− ${nines}코스 빼기</button>` : ''}</div>`;
   $('holeGrid').innerHTML = html;
+  $('addNine')?.addEventListener('click', () => {
+    ui.holeCount = Math.min(36, nines*9+9); ui.hole = nines*9+1; ui.mode='tee'; changed();
+    toast(`${nines+1}코스(${nines*9+1}~${nines*9+9}번)를 추가했습니다 — 코스 이름도 넣어 주세요`);
+  });
+  $('delNine')?.addEventListener('click', () => {
+    ui.holeCount = (nines-1)*9; if (ui.hole>ui.holeCount) ui.hole=1;
+    if (course.nines) course.nines = course.nines.slice(0, nines-1);
+    changed();
+  });
   $('holeGrid').querySelectorAll('.hb').forEach(b => b.onclick = () => { selectHole(+b.dataset.h); focusHole(+b.dataset.h); });
   renderGridLabels();
   // 모드
