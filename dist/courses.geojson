@@ -159,9 +159,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.274857,
-          35.858754,
-          134.8
+          129.272899,
+          35.860713
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274868,
+          35.858705
         ]
       },
       "properties": {
@@ -188,6 +203,22 @@
         "hole": 1,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274833,
+          35.857574
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 2,
+        "type": "tee"
       }
     },
     {
@@ -231,6 +262,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.271118,
+          35.858385
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.271904,
           35.854294
         ]
@@ -265,9 +312,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.273262,
-          35.856211,
-          128.7
+          129.272977,
+          35.853683
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.273272,
+          35.856185
         ]
       },
       "properties": {
@@ -283,9 +345,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.273594,
-          35.856246,
-          128.7
+          129.273615,
+          35.856222
         ]
       },
       "properties": {
@@ -294,6 +355,22 @@
         "hole": 4,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274347,
+          35.856231
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 5,
+        "type": "tee"
       }
     },
     {
@@ -337,6 +414,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.276965,
+          35.85402
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.273945,
           35.85261,
           127.6
@@ -366,6 +459,22 @@
         "hole": 6,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.272285,
+          35.8525
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 7,
+        "type": "tee"
       }
     },
     {
@@ -409,6 +518,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.27262,
+          35.854096
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.271634,
           35.858387,
           140.7
@@ -445,9 +570,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.275817,
-          35.859487,
-          146.0
+          129.271654,
+          35.859544
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.271826,
+          35.860831
         ]
       },
       "properties": {
@@ -463,9 +603,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.275962,
-          35.858998,
-          146.0
+          129.272105,
+          35.860642
         ]
       },
       "properties": {
@@ -481,9 +620,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.274999,
-          35.86137,
-          144.5
+          129.273276,
+          35.860785
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275831,
+          35.859468
         ]
       },
       "properties": {
@@ -499,9 +653,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.275152,
-          35.861524,
-          144.5
+          129.275973,
+          35.858992
         ]
       },
       "properties": {
@@ -510,6 +663,22 @@
         "hole": 10,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275841,
+          35.859977
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 11,
+        "type": "tee"
       }
     },
     {
@@ -553,6 +722,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.274515,
+          35.861826
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.275355,
           35.866028,
           98.9
@@ -582,6 +767,22 @@
         "hole": 12,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.27435,
+          35.867234
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 13,
+        "type": "tee"
       }
     },
     {
@@ -625,6 +826,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.273666,
+          35.8647
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.270912,
           35.863055,
           122.1
@@ -654,6 +871,22 @@
         "hole": 14,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.270582,
+          35.862433
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 15,
+        "type": "tee"
       }
     },
     {
@@ -697,6 +930,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.272918,
+          35.862355
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.269042,
           35.861761,
           134.9
@@ -726,6 +975,22 @@
         "hole": 16,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.268838,
+          35.86225
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 17,
+        "type": "tee"
       }
     },
     {
@@ -769,6 +1034,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.273925,
+          35.864519
+        ]
+      },
+      "properties": {
+        "courseId": "bomun-gc",
+        "course": "보문GC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.274479,
           35.861368,
           138.3
@@ -795,6 +1076,672 @@
       "properties": {
         "courseId": "bomun-gc",
         "course": "보문GC",
+        "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310058,
+          35.364215
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.308787,
+          35.362115
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 1,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.308457,
+          35.36225
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 1,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.308994,
+          35.361603
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310914,
+          35.358893
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 2,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311013,
+          35.35853
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 2,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312703,
+          35.358595
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.314436,
+          35.358663
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.315409,
+          35.358118
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310415,
+          35.357055
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.309329,
+          35.356237
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310941,
+          35.357854
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311593,
+          35.359175
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310785,
+          35.361649
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 6,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310836,
+          35.36206
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 6,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310399,
+          35.361268
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310724,
+          35.360406
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 7,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311027,
+          35.360002
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 7,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310477,
+          35.359525
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.309736,
+          35.362117
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310243,
+          35.36185
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311472,
+          35.364315
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312397,
+          35.364466
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311493,
+          35.362148
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.313518,
+          35.361531
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.31299,
+          35.359195
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.31192,
+          35.359044
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312869,
+          35.361297
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312987,
+          35.363128
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.313905,
+          35.365954
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312682,
+          35.366409
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312596,
+          35.367566
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3128,
+          35.371203
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.30938,
+          35.369628
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.309602,
+          35.368882
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.309509,
+          35.367745
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310133,
+          35.367999
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312156,
+          35.37035
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.312762,
+          35.369941
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.311649,
+          35.366266
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
+        "hole": 18,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.310922,
+          35.366056
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkauntideogolpeu",
+        "course": "골프존카운티더골프",
         "hole": 18,
         "type": "green",
         "label": "B"

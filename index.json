@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T08:31:39Z",
+  "updatedAt": "2026-10-30T09:08:10Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -22,12 +22,24 @@
         "보문gc"
       ],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T08:15:47Z",
+      "updatedAt": "2026-10-30T08:59:42Z",
       "file": "courses/bomun-gc.json",
       "region": "경북 경주시",
       "location": {
-        "lat": 35.85976,
-        "lon": 129.273522
+        "lat": 35.859679,
+        "lon": 129.273301
+      }
+    },
+    {
+      "id": "golpeujonkauntideogolpeu",
+      "name": "골프존카운티더골프",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-10-30T09:07:26Z",
+      "file": "courses/golpeujonkauntideogolpeu.json",
+      "location": {
+        "lat": 35.362812,
+        "lon": 129.311342
       }
     },
     {
