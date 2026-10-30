@@ -96,6 +96,7 @@ button.small{padding:4px 8px;font-size:12px}
       <button id="openBtn" class="small">파일 열기</button>
       <button id="draftBtn" class="small">임시저장 목록</button>
     </div>
+    <button id="publicBtn" class="small" style="width:100%;margin-top:6px">공개 데이터에서 골프장 열기</button>
     <input type="file" id="openFile" accept=".json,application/json" multiple hidden>
   </section>
 
@@ -473,6 +474,20 @@ $('draftBtn').onclick = () => {
   const n=parseInt(ans,10); const k=keys[Math.abs(n)-1]; if (!k) return;
   if (n<0){ if (confirm(`${drafts[k].name} 임시저장을 지울까요?`)){ delete drafts[k]; store.set('ce_drafts',drafts); toast('삭제했습니다'); } return; }
   loadCourseJson(drafts[k]);
+};
+
+// ── 공개 데이터(GitHub)에서 열기 — 어느 PC 에서든 최신 좌표에서 이어서 작업 ──
+const DATA_BASE = 'https://raw.githubusercontent.com/wannawork/golf-course-data/main/';
+$('publicBtn').onclick = async () => {
+  try{
+    const idx = await (await fetch(DATA_BASE + 'index.json', { cache:'no-store' })).json();
+    const list = idx.courses || [];
+    if (!list.length){ toast('공개 데이터에 골프장이 없습니다'); return; }
+    const ans = prompt(`열 골프장 번호를 입력하세요:\n\n${list.map((c,i)=>`${i+1}. ${c.name} (${c.holeCount}홀)`).join('\n')}`);
+    const e = list[parseInt(ans,10)-1]; if (!e) return;
+    const c = await (await fetch(DATA_BASE + e.file, { cache:'no-store' })).json();
+    loadCourseJson(c, e.file);
+  }catch(err){ toast('공개 데이터를 불러오지 못했습니다 — 인터넷 연결 또는 저장소를 확인하세요'); }
 };
 
 // ── 라운드 기록 겹쳐보기 ──
