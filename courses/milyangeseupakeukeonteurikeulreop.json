@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "milyangeseupakeukeonteurikeulreop",
-  "name": "밀양에스파크컨트리클럽",
-  "aliases": [],
+  "name": "밀양에스파크CC",
+  "aliases": [
+    "밀양에스파크컨트리클럽"
+  ],
+  "location": {
+    "lat": 35.495908,
+    "lon": 128.82709
+  },
   "holes": {
     "1": {
       "greens": [
@@ -167,10 +173,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.495908,
-    "lon": 128.82709
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

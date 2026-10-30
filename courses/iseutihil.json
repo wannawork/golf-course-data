@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "iseutihil",
-  "name": "이스티힐",
-  "aliases": [],
+  "name": "이스티힐CC",
+  "aliases": [
+    "이스티힐"
+  ],
+  "location": {
+    "lat": 35.722912,
+    "lon": 129.374493
+  },
   "holes": {
     "1": {
       "greens": [
@@ -197,10 +203,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.722912,
-    "lon": 129.374493
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "bnbk-pa-3",
-  "name": "bnbk파3",
-  "aliases": [],
+  "name": "BNBK파3",
+  "aliases": [
+    "bnbk파3"
+  ],
+  "location": {
+    "lat": 35.258212,
+    "lon": 129.095488
+  },
   "holes": {
     "1": {
       "greens": [
@@ -86,10 +92,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.258212,
-    "lon": 129.095488
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

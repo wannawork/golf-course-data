@@ -13,7 +13,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 1,
         "type": "green"
       }
@@ -30,7 +30,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 2,
         "type": "green"
       }
@@ -47,7 +47,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 3,
         "type": "green"
       }
@@ -64,7 +64,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 4,
         "type": "green"
       }
@@ -81,7 +81,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 5,
         "type": "green"
       }
@@ -98,7 +98,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 6,
         "type": "green"
       }
@@ -115,7 +115,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 7,
         "type": "green"
       }
@@ -132,7 +132,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 8,
         "type": "green"
       }
@@ -149,7 +149,7 @@
       },
       "properties": {
         "courseId": "bnbk-pa-3",
-        "course": "bnbk파3",
+        "course": "BNBK파3",
         "hole": 9,
         "type": "green"
       }
@@ -1759,7 +1759,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 1,
         "type": "green"
       }
@@ -1776,7 +1776,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 2,
         "type": "green"
       }
@@ -1793,7 +1793,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 3,
         "type": "green"
       }
@@ -1810,7 +1810,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 4,
         "type": "green"
       }
@@ -1827,7 +1827,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 5,
         "type": "green"
       }
@@ -1844,7 +1844,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 6,
         "type": "green"
       }
@@ -1861,7 +1861,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 7,
         "type": "green"
       }
@@ -1878,7 +1878,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 8,
         "type": "green"
       }
@@ -1895,7 +1895,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 9,
         "type": "green"
       }
@@ -1912,7 +1912,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 10,
         "type": "green"
       }
@@ -1929,7 +1929,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 11,
         "type": "green"
       }
@@ -1946,7 +1946,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 12,
         "type": "green"
       }
@@ -1963,7 +1963,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 13,
         "type": "green"
       }
@@ -1980,7 +1980,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 14,
         "type": "green"
       }
@@ -1997,7 +1997,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 15,
         "type": "green"
       }
@@ -2014,7 +2014,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 16,
         "type": "green"
       }
@@ -2031,7 +2031,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 17,
         "type": "green"
       }
@@ -2048,7 +2048,7 @@
       },
       "properties": {
         "courseId": "hilseukai",
-        "course": "힐스카이",
+        "course": "힐스카이CC",
         "hole": 18,
         "type": "green"
       }
@@ -2065,7 +2065,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 1,
         "type": "green",
         "label": "A"
@@ -2083,7 +2083,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 1,
         "type": "green",
         "label": "B"
@@ -2101,7 +2101,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 2,
         "type": "green",
         "label": "B"
@@ -2119,7 +2119,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 3,
         "type": "green",
         "label": "A"
@@ -2137,7 +2137,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 3,
         "type": "green",
         "label": "B"
@@ -2155,7 +2155,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 4,
         "type": "green",
         "label": "B"
@@ -2173,7 +2173,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 5,
         "type": "green",
         "label": "B"
@@ -2191,7 +2191,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 6,
         "type": "green",
         "label": "B"
@@ -2209,7 +2209,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 7,
         "type": "green",
         "label": "B"
@@ -2227,7 +2227,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 8,
         "type": "green",
         "label": "B"
@@ -2245,7 +2245,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 9,
         "type": "green",
         "label": "B"
@@ -2263,7 +2263,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 10,
         "type": "green",
         "label": "B"
@@ -2281,7 +2281,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 11,
         "type": "green",
         "label": "A"
@@ -2299,7 +2299,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 11,
         "type": "green",
         "label": "B"
@@ -2316,7 +2316,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 12,
         "type": "green"
       }
@@ -2332,7 +2332,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 13,
         "type": "green"
       }
@@ -2348,7 +2348,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 14,
         "type": "green"
       }
@@ -2364,7 +2364,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 15,
         "type": "green"
       }
@@ -2381,7 +2381,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 16,
         "type": "green",
         "label": "A"
@@ -2399,7 +2399,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 16,
         "type": "green",
         "label": "B"
@@ -2416,7 +2416,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 17,
         "type": "green"
       }
@@ -2432,7 +2432,7 @@
       },
       "properties": {
         "courseId": "iseutihil",
-        "course": "이스티힐",
+        "course": "이스티힐CC",
         "hole": 18,
         "type": "green"
       }
@@ -2449,7 +2449,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 1,
         "type": "green"
       }
@@ -2466,7 +2466,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 2,
         "type": "green"
       }
@@ -2483,7 +2483,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 3,
         "type": "green"
       }
@@ -2500,7 +2500,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 4,
         "type": "green"
       }
@@ -2517,7 +2517,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 5,
         "type": "green"
       }
@@ -2534,7 +2534,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 6,
         "type": "green"
       }
@@ -2551,7 +2551,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 7,
         "type": "green"
       }
@@ -2568,7 +2568,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 8,
         "type": "green"
       }
@@ -2585,7 +2585,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 9,
         "type": "green"
       }
@@ -2602,7 +2602,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 10,
         "type": "green"
       }
@@ -2619,7 +2619,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 11,
         "type": "green"
       }
@@ -2636,7 +2636,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 12,
         "type": "green"
       }
@@ -2653,7 +2653,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 13,
         "type": "green"
       }
@@ -2670,7 +2670,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 14,
         "type": "green"
       }
@@ -2687,7 +2687,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 15,
         "type": "green"
       }
@@ -2704,7 +2704,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 16,
         "type": "green"
       }
@@ -2721,7 +2721,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 17,
         "type": "green"
       }
@@ -2738,7 +2738,7 @@
       },
       "properties": {
         "courseId": "milyangeseupakeukeonteurikeulreop",
-        "course": "밀양에스파크컨트리클럽",
+        "course": "밀양에스파크CC",
         "hole": 18,
         "type": "green"
       }
@@ -3043,7 +3043,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 1,
         "type": "green",
         "label": "A"
@@ -3061,7 +3061,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 1,
         "type": "green",
         "label": "B"
@@ -3079,7 +3079,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 2,
         "type": "green",
         "label": "A"
@@ -3096,7 +3096,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 2,
         "type": "green",
         "label": "B"
@@ -3114,7 +3114,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 3,
         "type": "green",
         "label": "A"
@@ -3132,7 +3132,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 3,
         "type": "green",
         "label": "B"
@@ -3150,7 +3150,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 4,
         "type": "green",
         "label": "A"
@@ -3168,7 +3168,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 4,
         "type": "green",
         "label": "B"
@@ -3186,7 +3186,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 5,
         "type": "green",
         "label": "A"
@@ -3204,7 +3204,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 5,
         "type": "green",
         "label": "B"
@@ -3222,7 +3222,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 6,
         "type": "green",
         "label": "A"
@@ -3240,7 +3240,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 6,
         "type": "green",
         "label": "B"
@@ -3258,7 +3258,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 7,
         "type": "green",
         "label": "A"
@@ -3276,7 +3276,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 7,
         "type": "green",
         "label": "B"
@@ -3294,7 +3294,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 8,
         "type": "green",
         "label": "A"
@@ -3312,7 +3312,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 8,
         "type": "green",
         "label": "B"
@@ -3330,7 +3330,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 9,
         "type": "green",
         "label": "A"
@@ -3348,7 +3348,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 9,
         "type": "green",
         "label": "B"
@@ -3366,7 +3366,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 10,
         "type": "green",
         "label": "A"
@@ -3384,7 +3384,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 10,
         "type": "green",
         "label": "B"
@@ -3402,7 +3402,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 11,
         "type": "green",
         "label": "A"
@@ -3420,7 +3420,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 11,
         "type": "green",
         "label": "B"
@@ -3438,7 +3438,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 12,
         "type": "green",
         "label": "A"
@@ -3456,7 +3456,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 12,
         "type": "green",
         "label": "B"
@@ -3474,7 +3474,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 13,
         "type": "green",
         "label": "A"
@@ -3492,7 +3492,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 13,
         "type": "green",
         "label": "B"
@@ -3510,7 +3510,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 14,
         "type": "green",
         "label": "A"
@@ -3528,7 +3528,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 14,
         "type": "green",
         "label": "B"
@@ -3546,7 +3546,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 15,
         "type": "green",
         "label": "A"
@@ -3564,7 +3564,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 15,
         "type": "green",
         "label": "B"
@@ -3582,7 +3582,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 16,
         "type": "green",
         "label": "A"
@@ -3600,7 +3600,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 16,
         "type": "green",
         "label": "B"
@@ -3618,7 +3618,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 17,
         "type": "green",
         "label": "A"
@@ -3636,7 +3636,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 17,
         "type": "green",
         "label": "B"
@@ -3654,7 +3654,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 18,
         "type": "green",
         "label": "A"
@@ -3672,7 +3672,7 @@
       },
       "properties": {
         "courseId": "sinra",
-        "course": "신라",
+        "course": "경주신라CC",
         "hole": 18,
         "type": "green",
         "label": "B"
@@ -3690,7 +3690,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 1,
         "type": "green",
         "label": "A"
@@ -3708,7 +3708,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 1,
         "type": "green",
         "label": "B"
@@ -3726,7 +3726,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 2,
         "type": "green",
         "label": "A"
@@ -3744,7 +3744,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 2,
         "type": "green",
         "label": "B"
@@ -3761,7 +3761,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 3,
         "type": "green",
         "label": "A"
@@ -3778,7 +3778,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 3,
         "type": "green",
         "label": "B"
@@ -3796,7 +3796,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 4,
         "type": "green",
         "label": "A"
@@ -3814,7 +3814,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 4,
         "type": "green",
         "label": "B"
@@ -3831,7 +3831,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 5,
         "type": "green",
         "label": "A"
@@ -3848,7 +3848,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 5,
         "type": "green",
         "label": "B"
@@ -3865,7 +3865,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 6,
         "type": "green",
         "label": "A"
@@ -3882,7 +3882,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 6,
         "type": "green",
         "label": "B"
@@ -3899,7 +3899,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 7,
         "type": "green",
         "label": "A"
@@ -3916,7 +3916,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 7,
         "type": "green",
         "label": "B"
@@ -3934,7 +3934,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 8,
         "type": "green",
         "label": "A"
@@ -3952,7 +3952,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 8,
         "type": "green",
         "label": "B"
@@ -3969,7 +3969,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 9,
         "type": "green",
         "label": "A"
@@ -3986,7 +3986,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 9,
         "type": "green",
         "label": "B"
@@ -4003,7 +4003,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 10,
         "type": "green",
         "label": "A"
@@ -4020,7 +4020,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 10,
         "type": "green",
         "label": "B"
@@ -4037,7 +4037,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 11,
         "type": "green",
         "label": "A"
@@ -4054,7 +4054,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 11,
         "type": "green",
         "label": "B"
@@ -4071,7 +4071,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 12,
         "type": "green",
         "label": "A"
@@ -4088,7 +4088,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 12,
         "type": "green",
         "label": "B"
@@ -4105,7 +4105,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 13,
         "type": "green",
         "label": "A"
@@ -4122,7 +4122,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 13,
         "type": "green",
         "label": "B"
@@ -4139,7 +4139,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 14,
         "type": "green",
         "label": "A"
@@ -4156,7 +4156,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 14,
         "type": "green",
         "label": "B"
@@ -4174,7 +4174,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 15,
         "type": "green",
         "label": "A"
@@ -4192,7 +4192,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 15,
         "type": "green",
         "label": "B"
@@ -4209,7 +4209,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 16,
         "type": "green",
         "label": "A"
@@ -4226,7 +4226,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 16,
         "type": "green",
         "label": "B"
@@ -4243,7 +4243,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 17,
         "type": "green",
         "label": "A"
@@ -4260,7 +4260,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 17,
         "type": "green",
         "label": "B"
@@ -4277,7 +4277,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 18,
         "type": "green",
         "label": "A"
@@ -4294,7 +4294,7 @@
       },
       "properties": {
         "courseId": "ulsan",
-        "course": "울산",
+        "course": "울산CC",
         "hole": 18,
         "type": "green",
         "label": "B"
@@ -4312,7 +4312,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 1,
         "type": "green"
       }
@@ -4329,7 +4329,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 2,
         "type": "green",
         "label": "A"
@@ -4347,7 +4347,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 2,
         "type": "green",
         "label": "B"
@@ -4365,7 +4365,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 3,
         "type": "green",
         "label": "A"
@@ -4383,7 +4383,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 3,
         "type": "green",
         "label": "B"
@@ -4401,7 +4401,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 4,
         "type": "green",
         "label": "A"
@@ -4419,7 +4419,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 4,
         "type": "green",
         "label": "B"
@@ -4437,7 +4437,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 5,
         "type": "green"
       }
@@ -4454,7 +4454,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 6,
         "type": "green"
       }
@@ -4471,7 +4471,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 7,
         "type": "green"
       }
@@ -4488,7 +4488,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 8,
         "type": "green"
       }
@@ -4505,7 +4505,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 9,
         "type": "green"
       }
@@ -4522,7 +4522,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 10,
         "type": "green"
       }
@@ -4539,7 +4539,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 11,
         "type": "green"
       }
@@ -4556,7 +4556,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 12,
         "type": "green"
       }
@@ -4573,7 +4573,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 13,
         "type": "green"
       }
@@ -4590,7 +4590,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 14,
         "type": "green"
       }
@@ -4607,7 +4607,7 @@
       },
       "properties": {
         "courseId": "yangsan",
-        "course": "양산",
+        "course": "양산CC",
         "hole": 15,
         "type": "green"
       }
@@ -4624,7 +4624,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 1,
         "type": "green"
       }
@@ -4641,7 +4641,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 2,
         "type": "green"
       }
@@ -4658,7 +4658,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 3,
         "type": "green"
       }
@@ -4675,7 +4675,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 4,
         "type": "green"
       }
@@ -4692,7 +4692,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 5,
         "type": "green"
       }
@@ -4709,7 +4709,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 6,
         "type": "green"
       }
@@ -4726,7 +4726,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 7,
         "type": "green"
       }
@@ -4743,7 +4743,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 8,
         "type": "green",
         "label": "A"
@@ -4761,7 +4761,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 8,
         "type": "green",
         "label": "B"
@@ -4779,7 +4779,7 @@
       },
       "properties": {
         "courseId": "yeongnamalpeuseu",
-        "course": "영남알프스",
+        "course": "영남알프스골프파크",
         "hole": 9,
         "type": "green"
       }
@@ -4795,7 +4795,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 1,
         "type": "green",
         "label": "A"
@@ -4812,7 +4812,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 1,
         "type": "green",
         "label": "B"
@@ -4829,7 +4829,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 2,
         "type": "green",
         "label": "A"
@@ -4846,7 +4846,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 2,
         "type": "green",
         "label": "B"
@@ -4863,7 +4863,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 3,
         "type": "green",
         "label": "A"
@@ -4880,7 +4880,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 3,
         "type": "green",
         "label": "B"
@@ -4897,7 +4897,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 4,
         "type": "green",
         "label": "A"
@@ -4915,7 +4915,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 4,
         "type": "green",
         "label": "B"
@@ -4933,7 +4933,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 5,
         "type": "green",
         "label": "A"
@@ -4951,7 +4951,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 5,
         "type": "green",
         "label": "B"
@@ -4969,7 +4969,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 6,
         "type": "green",
         "label": "A"
@@ -4987,7 +4987,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 6,
         "type": "green",
         "label": "B"
@@ -5005,7 +5005,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 7,
         "type": "green",
         "label": "A"
@@ -5023,7 +5023,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 7,
         "type": "green",
         "label": "B"
@@ -5041,7 +5041,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 8,
         "type": "green",
         "label": "A"
@@ -5059,7 +5059,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 8,
         "type": "green",
         "label": "B"
@@ -5077,7 +5077,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 9,
         "type": "green",
         "label": "A"
@@ -5095,7 +5095,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 9,
         "type": "green",
         "label": "B"
@@ -5113,7 +5113,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 10,
         "type": "green",
         "label": "A"
@@ -5131,7 +5131,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 10,
         "type": "green",
         "label": "B"
@@ -5149,7 +5149,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 11,
         "type": "green",
         "label": "A"
@@ -5167,7 +5167,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 11,
         "type": "green",
         "label": "B"
@@ -5185,7 +5185,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 12,
         "type": "green",
         "label": "A"
@@ -5202,7 +5202,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 12,
         "type": "green",
         "label": "B"
@@ -5220,7 +5220,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 13,
         "type": "green",
         "label": "A"
@@ -5238,7 +5238,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 13,
         "type": "green",
         "label": "B"
@@ -5256,7 +5256,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 14,
         "type": "green",
         "label": "A"
@@ -5273,7 +5273,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 14,
         "type": "green",
         "label": "B"
@@ -5291,7 +5291,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 15,
         "type": "green",
         "label": "A"
@@ -5309,7 +5309,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 15,
         "type": "green",
         "label": "B"
@@ -5327,7 +5327,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 16,
         "type": "green",
         "label": "A"
@@ -5345,7 +5345,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 16,
         "type": "green",
         "label": "B"
@@ -5363,7 +5363,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 17,
         "type": "green",
         "label": "A"
@@ -5381,7 +5381,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 17,
         "type": "green",
         "label": "B"
@@ -5399,7 +5399,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 18,
         "type": "green",
         "label": "A"
@@ -5417,7 +5417,7 @@
       },
       "properties": {
         "courseId": "yongwon",
-        "course": "용원",
+        "course": "용원CC",
         "hole": 18,
         "type": "green",
         "label": "B"

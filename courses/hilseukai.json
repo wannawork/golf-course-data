@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "hilseukai",
-  "name": "힐스카이",
-  "aliases": [],
+  "name": "힐스카이CC",
+  "aliases": [
+    "힐스카이"
+  ],
+  "location": {
+    "lat": 35.912633,
+    "lon": 129.314671
+  },
   "holes": {
     "1": {
       "greens": [
@@ -167,10 +173,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.912633,
-    "lon": 129.314671
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

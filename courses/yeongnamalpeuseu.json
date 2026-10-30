@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "yeongnamalpeuseu",
-  "name": "영남알프스",
-  "aliases": [],
+  "name": "영남알프스골프파크",
+  "aliases": [
+    "영남알프스"
+  ],
+  "location": {
+    "lat": 35.540815,
+    "lon": 129.09867
+  },
   "holes": {
     "1": {
       "greens": [
@@ -93,10 +99,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.540815,
-    "lon": 129.09867
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

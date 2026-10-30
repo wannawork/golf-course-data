@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "ulsan",
-  "name": "울산",
-  "aliases": [],
+  "name": "울산CC",
+  "aliases": [
+    "울산"
+  ],
+  "location": {
+    "lat": 35.444854,
+    "lon": 129.184795
+  },
   "holes": {
     "1": {
       "greens": [
@@ -267,10 +273,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.444854,
-    "lon": 129.184795
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }

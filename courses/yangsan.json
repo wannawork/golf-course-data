@@ -1,8 +1,14 @@
 {
   "schemaVersion": 2,
   "id": "yangsan",
-  "name": "양산",
-  "aliases": [],
+  "name": "양산CC",
+  "aliases": [
+    "양산"
+  ],
+  "location": {
+    "lat": 35.398081,
+    "lon": 129.041423
+  },
   "holes": {
     "1": {
       "greens": [
@@ -161,10 +167,6 @@
       ]
     }
   },
-  "source": "field",
-  "location": {
-    "lat": 35.398081,
-    "lon": 129.041423
-  },
-  "updatedAt": "2026-10-30T08:15:47Z"
+  "updatedAt": "2026-10-30T09:17:03Z",
+  "source": "field"
 }
