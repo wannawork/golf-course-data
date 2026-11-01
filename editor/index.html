@@ -123,8 +123,8 @@ button.small{padding:4px 8px;font-size:12px}
     <div id="holeGrid"></div>
     <div class="modes">
       <button class="mode-tee" data-mode="tee">티박스</button>
-      <button class="mode-ga" data-mode="ga">그린 A</button>
-      <button class="mode-gb" data-mode="gb">그린 B</button>
+      <button class="mode-ga" data-mode="ga">좌그린 (A)</button>
+      <button class="mode-gb" data-mode="gb">우그린 (B)</button>
     </div>
     <label class="chk"><input type="checkbox" id="autoNext" checked> 찍으면 다음 단계로 자동 이동</label>
     <div class="holeinfo" id="holeInfo"></div>
@@ -316,7 +316,7 @@ function draw(){
       m.on('click', () => selectHole(n));
     });
     (h.greens||[]).forEach((p,i) => {
-      const lab = h.greens.length>1 ? (p.label || 'AB'[i]) : '';
+      const lab = h.greens.length>1 ? (i===0 ? '좌' : '우') : '';
       const m=L.marker([p.lat,p.lon], { icon:greenIcon(n,lab,isSel), draggable:true, zIndexOffset:isSel?1000:0 }).addTo(drawLayer);
       m.on('dragend', e => { const ll=e.target.getLatLng(); p.lat=r6(ll.lat); p.lon=r6(ll.lng); delete p.alt; changed(); });
       m.on('contextmenu', () => { h.greens.splice(i,1); changed(); toast(`${n}번 그린 삭제`); });
@@ -339,7 +339,7 @@ function setPoint(lat, lon){
   else {
     h.greens = h.greens || [];
     if (ui.mode==='ga'){ h.greens[0] = ui.twoGreen ? {...p, label:'A'} : p; }
-    else { if (!h.greens[0]) { toast('그린 A 를 먼저 찍으세요'); return; } h.greens[1] = {...p, label:'B'}; if (!h.greens[0].label) h.greens[0].label='A'; }
+    else { if (!h.greens[0]) { toast('좌그린(A)을 먼저 찍으세요'); return; } h.greens[1] = {...p, label:'B'}; if (!h.greens[0].label) h.greens[0].label='A'; }
   }
   if (!ui.twoGreen && h.greens?.length>1 && ui.mode!=='gb') h.greens = [h.greens[0]];
   if ($('autoNext').checked) advance();
@@ -407,6 +407,7 @@ function render(){
   document.querySelectorAll('.modes button').forEach(b => {
     b.classList.toggle('on', b.dataset.mode===ui.mode);
     if (b.dataset.mode==='gb') b.style.display = ui.twoGreen ? '' : 'none';
+    if (b.dataset.mode==='ga') b.textContent = ui.twoGreen ? '좌그린 (A)' : '그린';
   });
   document.querySelector('.modes').style.gridTemplateColumns = ui.twoGreen ? '1fr 1fr 1fr' : '1fr 1fr';
   // 홀 정보
@@ -418,7 +419,7 @@ function render(){
   if (t && gs.length) info += ` · 티→그린 <b>${Math.round(dist(t, center(gs)))} m</b>`;
   $('holeInfo').innerHTML = info;
   $('par').value = h?.par || '';
-  const modeName = { tee:'티박스', ga: ui.twoGreen?'그린 A':'그린', gb:'그린 B' }[ui.mode];
+  const modeName = { tee:'티박스', ga: ui.twoGreen?'좌그린(A)':'그린', gb:'우그린(B)' }[ui.mode];
   $('mapbar').innerHTML = course.name ? `<b>${ui.hole}번</b> ${modeName} 위치를 지도에서 클릭하세요` : '먼저 왼쪽에서 골프장 이름을 입력하세요';
   draw(); validate();
 }
@@ -441,6 +442,12 @@ function validate(){
     if (!t.length) w.push(`${n}번: 티박스 없음`);
     if (g.length) centers.push([n, center(g)]);
     if (g.length && t.length){ const d=dist(t[0],g[0]); if (d<60||d>650) w.push(`${n}번: 티→그린 ${Math.round(d)}m (비정상 거리)`); }
+    if (g.length>1 && t.length){
+      // 티에서 그린 쪽을 볼 때 A 가 오른쪽이면 좌/우가 바뀌었을 가능성 (도그렉 홀은 무시해도 됨)
+      const tee=t[0], k=Math.cos(tee.lat*Math.PI/180), X=q=>(q.lon-tee.lon)*k, Y=q=>q.lat-tee.lat;
+      const fx=(X(g[0])+X(g[1]))/2, fy=(Y(g[0])+Y(g[1]))/2;
+      if (fx*Y(g[0]) - fy*X(g[0]) < 0) w.push(`${n}번: 티에서 볼 때 A가 오른쪽 — 좌그린(A)/우그린(B)이 바뀌었는지 확인 (도그렉이면 무시)`);
+    }
   }
   for (let i=0;i<centers.length;i++) for (let j=i+1;j<centers.length;j++){
     const d=dist(centers[i][1],centers[j][1]); if (d<10) w.push(`${centers[i][0]}번과 ${centers[j][0]}번 그린이 ${Math.round(d)}m — 같은 좌표가 두 홀에 들어갔는지 확인`);
