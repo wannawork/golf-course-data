@@ -115,7 +115,7 @@ button.small{padding:4px 8px;font-size:12px}
     <h2>홀</h2>
     <div class="row">
       <div><label>홀 수</label>
-        <select id="holeCount"><option>9</option><option selected>18</option><option>27</option><option>36</option></select></div>
+        <select id="holeCount"><option>9</option><option selected>18</option><option>27</option><option>36</option><option>45</option><option>54</option></select></div>
       <div><label>그린</label>
         <select id="twoGreen"><option value="0">원그린</option><option value="1">투그린 (A/B)</option></select></div>
     </div>
@@ -389,11 +389,11 @@ function render(){
   // 9홀 코스 추가/빼기 (최대 4코스 = 36홀)
   const lastNineEmpty = nines>1 && !Array.from({length:9},(_,i)=>(nines-1)*9+i+1).some(n=>holeIfAny(n));
   html += `<div class="row" style="margin-top:8px">${
-    nines<4 ? `<button id="addNine" class="small">+ ${nines+1}코스 추가 (${nines*9+1}~${nines*9+9}번)</button>` : ''}${
+    nines<6 ? `<button id="addNine" class="small">+ ${nines+1}코스 추가 (${nines*9+1}~${nines*9+9}번)</button>` : ''}${
     lastNineEmpty ? `<button id="delNine" class="small" style="flex:0 0 auto">− ${nines}코스 빼기</button>` : ''}</div>`;
   $('holeGrid').innerHTML = html;
   $('addNine')?.addEventListener('click', () => {
-    ui.holeCount = Math.min(36, nines*9+9); ui.hole = nines*9+1; ui.mode='tee'; changed();
+    ui.holeCount = Math.min(54, nines*9+9); ui.hole = nines*9+1; ui.mode='tee'; changed();
     toast(`${nines+1}코스(${nines*9+1}~${nines*9+9}번)를 추가했습니다 — 코스 이름도 넣어 주세요`);
   });
   $('delNine')?.addEventListener('click', () => {
@@ -533,7 +533,7 @@ function loadCourseJson(j, fname){
   c._loaded = true; c._origName = c._origName || c.name;
   persist(); course = c;
   const nums=Object.keys(c.holes).map(Number);
-  ui.holeCount = Math.min(36, Math.max(9, Math.ceil(Math.max(9,...nums)/9)*9));
+  ui.holeCount = Math.min(54, Math.max(9, Math.ceil(Math.max(9,...nums)/9)*9));
   ui.twoGreen = Object.values(c.holes).some(h => (h.greens||[]).length>1);
   ui.hole=1; ui.mode='tee';
   changed();
