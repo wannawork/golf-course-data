@@ -6,6 +6,1770 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.174537,
+          35.377827
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.171104,
+          35.376441
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.170439,
+          35.376197
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.168592,
+          35.373602
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.167951,
+          35.373859
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.166669,
+          35.373398
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.166707,
+          35.373878
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.170159,
+          35.376708
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.170356,
+          35.377351
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174236,
+          35.378365
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.173072,
+          35.378968
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.17135,
+          35.378474
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.171691,
+          35.37946
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.168383,
+          35.3789
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.166809,
+          35.378848
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.170845,
+          35.381653
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.171111,
+          35.380997
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174601,
+          35.379043
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.175546,
+          35.376926
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.175196,
+          35.373646
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.175458,
+          35.373135
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174779,
+          35.369739
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174111,
+          35.370086
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174354,
+          35.374468
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174418,
+          35.375248
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174752,
+          35.376392
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174035,
+          35.376213
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.173087,
+          35.373206
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.172154,
+          35.373522
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.171107,
+          35.372334
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.170542,
+          35.372708
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.172954,
+          35.375313
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.172055,
+          35.375316
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.169973,
+          35.373219
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.169893,
+          35.374097
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.174069,
+          35.37702
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.176539,
+          35.377209
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.176611,
+          35.374066
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 19,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.176497,
+          35.373305
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.177601,
+          35.373828
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 20,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.177544,
+          35.374475
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.177639,
+          35.377292
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 21,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.178325,
+          35.377267
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.178424,
+          35.374484
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 22,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.179236,
+          35.374657
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.181299,
+          35.37886
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 23,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.181151,
+          35.379268
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.177419,
+          35.378297
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 24,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.177464,
+          35.378786
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.181975,
+          35.379943
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 25,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.182456,
+          35.380246
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.178929,
+          35.379995
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 26,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.17847,
+          35.379559
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.176755,
+          35.379312
+        ]
+      },
+      "properties": {
+        "courseId": "awon-cc",
+        "course": "에이원CC",
+        "hole": 27,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.434066,
+          35.584736
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436531,
+          35.586588
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 1,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436738,
+          35.586375
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 1,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436579,
+          35.58762
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436888,
+          35.590776
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 2,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437193,
+          35.590936
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 2,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437627,
+          35.590687
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437597,
+          35.587088
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 3,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437324,
+          35.587163
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 3,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437284,
+          35.586803
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437699,
+          35.58559
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 4,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437375,
+          35.585832
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 4,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438397,
+          35.586037
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438606,
+          35.58976
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 5,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438882,
+          35.589734
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 5,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437863,
+          35.59089
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438501,
+          35.593235
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 6,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438818,
+          35.593586
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 6,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.438649,
+          35.594147
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437399,
+          35.591505
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 7,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.437018,
+          35.591566
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 7,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436592,
+          35.591113
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436232,
+          35.589634
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 8,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436111,
+          35.589874
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 8,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.435816,
+          35.587943
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433988,
+          35.585485
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 9,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433613,
+          35.585615
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 9,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433051,
+          35.585581
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.435183,
+          35.589249
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 10,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.435411,
+          35.588959
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 10,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.434595,
+          35.589381
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.435513,
+          35.59221
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 11,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.435729,
+          35.592108
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 11,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.436187,
+          35.592918
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433325,
+          35.59385
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 12,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433255,
+          35.594175
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 12,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.432686,
+          35.59356
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433118,
+          35.590279
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 13,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.432794,
+          35.590225
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 13,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433941,
+          35.591152
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.434239,
+          35.592528
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 14,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.43461,
+          35.592594
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 14,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.43462,
+          35.591539
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.434006,
+          35.589121
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 15,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433673,
+          35.589171
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 15,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433067,
+          35.589051
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.431756,
+          35.585725
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 16,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.431418,
+          35.585799
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 16,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.432241,
+          35.587025
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433298,
+          35.588548
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 17,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.433346,
+          35.588162
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 17,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.434532,
+          35.588733
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.432611,
+          35.585961
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 18,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.432477,
+          35.586212
+        ]
+      },
+      "properties": {
+        "courseId": "beiseutajeu-cc",
+        "course": "베이스타즈CC",
+        "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.096022,
           35.257389
         ]
@@ -4110,6 +5874,870 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.201638,
+          35.363699
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201764,
+          35.359324
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200205,
+          35.358452
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198551,
+          35.357307
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198137,
+          35.357898
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.194029,
+          35.356871
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.194253,
+          35.357499
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198809,
+          35.358585
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198665,
+          35.359234
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195012,
+          35.358455
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.194788,
+          35.359779
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.194837,
+          35.36264
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195365,
+          35.361848
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195577,
+          35.360332
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195274,
+          35.359732
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198957,
+          35.360212
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201032,
+          35.359952
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201024,
+          35.363116
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200569,
+          35.363871
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.20033,
+          35.360902
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199047,
+          35.360973
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.197381,
+          35.360872
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.196502,
+          35.360553
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195209,
+          35.363268
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.195828,
+          35.363887
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.197298,
+          35.361524
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198036,
+          35.361653
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.196314,
+          35.364648
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.197092,
+          35.364882
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199409,
+          35.361577
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199664,
+          35.362666
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198237,
+          35.365551
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199246,
+          35.366688
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199398,
+          35.368104
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200045,
+          35.36836
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.19982,
+          35.364005
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200645,
+          35.364962
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200791,
+          35.36827
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 19,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.198857,
+          35.36876
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199436,
+          35.373165
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 20,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199385,
+          35.374048
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.199361,
+          35.375301
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 21,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200149,
+          35.375461
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.202215,
+          35.373116
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 22,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201879,
+          35.372607
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201767,
+          35.369848
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 23,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.20077,
+          35.37022
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200225,
+          35.374451
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 24,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200345,
+          35.373101
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200101,
+          35.369471
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 25,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.201265,
+          35.368755
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.203409,
+          35.3668
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 26,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.203406,
+          35.366295
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2017,
+          35.366317
+        ]
+      },
+      "properties": {
+        "courseId": "haeundae-cc",
+        "course": "해운대CC",
+        "hole": 27,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.315661,
           35.90945
         ]
@@ -7986,8 +10614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.200016,
-          35.284132
+          129.200114,
+          35.284098
         ]
       },
       "properties": {
@@ -8002,8 +10630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.198972,
-          35.28681
+          129.198953,
+          35.286804
         ]
       },
       "properties": {
@@ -8018,8 +10646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.199776,
-          35.287137
+          129.200489,
+          35.287188
         ]
       },
       "properties": {
@@ -8034,8 +10662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.204076,
-          35.289867
+          129.204059,
+          35.289863
         ]
       },
       "properties": {
@@ -8050,8 +10678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.202604,
-          35.289763
+          129.202306,
+          35.289758
         ]
       },
       "properties": {
@@ -8066,8 +10694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.199543,
-          35.289367
+          129.199533,
+          35.289405
         ]
       },
       "properties": {
@@ -8082,8 +10710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.198469,
-          35.290633
+          129.198259,
+          35.290523
         ]
       },
       "properties": {
@@ -8098,8 +10726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.19653,
-          35.290227
+          129.196514,
+          35.290256
         ]
       },
       "properties": {
@@ -8114,8 +10742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.19524,
-          35.28999
+          129.195289,
+          35.289891
         ]
       },
       "properties": {
@@ -8130,8 +10758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.198071,
-          35.292235
+          129.198073,
+          35.292263
         ]
       },
       "properties": {
@@ -8146,8 +10774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.199096,
-          35.29257
+          129.198881,
+          35.292684
         ]
       },
       "properties": {
@@ -8162,8 +10790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.198963,
-          35.29112
+          129.198957,
+          35.291145
         ]
       },
       "properties": {
@@ -8178,8 +10806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.200247,
-          35.290003
+          129.200072,
+          35.290037
         ]
       },
       "properties": {
@@ -8194,8 +10822,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.204178,
-          35.290598
+          129.204165,
+          35.290616
         ]
       },
       "properties": {
@@ -8210,8 +10838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.205053,
-          35.289541
+          129.205033,
+          35.289631
         ]
       },
       "properties": {
@@ -8226,8 +10854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.200859,
-          35.286882
+          129.200842,
+          35.286909
         ]
       },
       "properties": {
@@ -8242,8 +10870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.199843,
-          35.28696
+          129.199894,
+          35.286888
         ]
       },
       "properties": {
@@ -8251,6 +10879,86 @@
         "course": "스톤게이트CC",
         "hole": 9,
         "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.200793,
+          35.284163
+        ]
+      },
+      "properties": {
+        "courseId": "seutongeiteu-cc",
+        "course": "스톤게이트CC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.205022,
+          35.283311
+        ]
+      },
+      "properties": {
+        "courseId": "seutongeiteu-cc",
+        "course": "스톤게이트CC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.206445,
+          35.283949
+        ]
+      },
+      "properties": {
+        "courseId": "seutongeiteu-cc",
+        "course": "스톤게이트CC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.208133,
+          35.284547
+        ]
+      },
+      "properties": {
+        "courseId": "seutongeiteu-cc",
+        "course": "스톤게이트CC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.205492,
+          35.28281
+        ]
+      },
+      "properties": {
+        "courseId": "seutongeiteu-cc",
+        "course": "스톤게이트CC",
+        "hole": 11,
+        "type": "green"
       }
     },
     {
@@ -8259,87 +10967,7 @@
         "type": "Point",
         "coordinates": [
           129.200785,
-          35.284154
-        ]
-      },
-      "properties": {
-        "courseId": "seutongeiteu-cc",
-        "course": "스톤게이트CC",
-        "hole": 9,
-        "type": "green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.204101,
-          35.283641
-        ]
-      },
-      "properties": {
-        "courseId": "seutongeiteu-cc",
-        "course": "스톤게이트CC",
-        "hole": 10,
-        "type": "tee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.20645,
-          35.283927
-        ]
-      },
-      "properties": {
-        "courseId": "seutongeiteu-cc",
-        "course": "스톤게이트CC",
-        "hole": 10,
-        "type": "green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.208221,
-          35.28455
-        ]
-      },
-      "properties": {
-        "courseId": "seutongeiteu-cc",
-        "course": "스톤게이트CC",
-        "hole": 11,
-        "type": "tee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.205466,
-          35.282755
-        ]
-      },
-      "properties": {
-        "courseId": "seutongeiteu-cc",
-        "course": "스톤게이트CC",
-        "hole": 11,
-        "type": "green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.20086,
-          35.282737
+          35.282832
         ]
       },
       "properties": {
@@ -8354,8 +10982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.197929,
-          35.2832
+          129.19794,
+          35.283219
         ]
       },
       "properties": {
@@ -8370,8 +10998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.19363,
-          35.283325
+          129.193656,
+          35.283414
         ]
       },
       "properties": {
@@ -8386,8 +11014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188825,
-          35.285744
+          129.188855,
+          35.285757
         ]
       },
       "properties": {
@@ -8402,8 +11030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188158,
-          35.285295
+          129.188013,
+          35.285556
         ]
       },
       "properties": {
@@ -8418,8 +11046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.189638,
-          35.284658
+          129.189686,
+          35.284661
         ]
       },
       "properties": {
@@ -8434,8 +11062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.189941,
-          35.284101
+          129.19027,
+          35.284021
         ]
       },
       "properties": {
@@ -8450,8 +11078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.1875,
-          35.285267
+          129.187524,
+          35.285265
         ]
       },
       "properties": {
@@ -8466,8 +11094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188468,
-          35.286195
+          129.188533,
+          35.28616
         ]
       },
       "properties": {
@@ -8482,8 +11110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.19317,
-          35.285466
+          129.193146,
+          35.285463
         ]
       },
       "properties": {
@@ -8498,8 +11126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.192218,
-          35.285262
+          129.191287,
+          35.285197
         ]
       },
       "properties": {
@@ -8514,8 +11142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.194595,
-          35.283675
+          129.194598,
+          35.283702
         ]
       },
       "properties": {
@@ -8530,8 +11158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.194689,
-          35.283421
+          129.196009,
+          35.284017
         ]
       },
       "properties": {
@@ -8546,8 +11174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.200257,
-          35.283349
+          129.200252,
+          35.283402
         ]
       },
       "properties": {
@@ -10397,8 +13025,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.186334,
-          35.44121
+          129.186333,
+          35.441176
         ]
       },
       "properties": {
@@ -10413,9 +13041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185116,
-          35.438466,
-          157.3
+          129.185108,
+          35.438449
         ]
       },
       "properties": {
@@ -10431,9 +13058,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184857,
-          35.438577,
-          157.3
+          129.18485,
+          35.438571
         ]
       },
       "properties": {
@@ -10449,8 +13075,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184212,
-          35.43882
+          129.184233,
+          35.438871
         ]
       },
       "properties": {
@@ -10465,9 +13091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18507,
-          35.441712,
-          193.7
+          129.185074,
+          35.441721
         ]
       },
       "properties": {
@@ -10483,9 +13108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185427,
-          35.441695,
-          193.7
+          129.185426,
+          35.441699
         ]
       },
       "properties": {
@@ -10501,8 +13125,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184516,
-          35.441572
+          129.184518,
+          35.441517
         ]
       },
       "properties": {
@@ -10517,8 +13141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183822,
-          35.440065
+          129.183831,
+          35.440075
         ]
       },
       "properties": {
@@ -10534,8 +13158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183675,
-          35.440284
+          129.183674,
+          35.440298
         ]
       },
       "properties": {
@@ -10551,8 +13175,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183588,
-          35.439151
+          129.183596,
+          35.439184
         ]
       },
       "properties": {
@@ -10567,9 +13191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.17953,
-          35.441814,
-          153.0
+          129.179522,
+          35.441829
         ]
       },
       "properties": {
@@ -10585,9 +13208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.179796,
-          35.442001,
-          153.0
+          129.179776,
+          35.442007
         ]
       },
       "properties": {
@@ -10603,8 +13225,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.180495,
-          35.442851
+          129.180501,
+          35.442871
         ]
       },
       "properties": {
@@ -10619,8 +13241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183614,
-          35.443022
+          129.183577,
+          35.443044
         ]
       },
       "properties": {
@@ -10636,8 +13258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18363,
-          35.442768
+          129.1836,
+          35.442779
         ]
       },
       "properties": {
@@ -10653,8 +13275,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184553,
-          35.442845
+          129.184571,
+          35.442861
         ]
       },
       "properties": {
@@ -10669,8 +13291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18218,
-          35.445359
+          129.182162,
+          35.44535
         ]
       },
       "properties": {
@@ -10686,8 +13308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.182488,
-          35.445428
+          129.182475,
+          35.445415
         ]
       },
       "properties": {
@@ -10703,8 +13325,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.182023,
-          35.445624
+          129.1817,
+          35.445528
         ]
       },
       "properties": {
@@ -10719,8 +13341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.180113,
-          35.445733
+          129.180116,
+          35.445744
         ]
       },
       "properties": {
@@ -10736,8 +13358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.180353,
-          35.445938
+          129.180321,
+          35.445927
         ]
       },
       "properties": {
@@ -10754,7 +13376,7 @@
         "type": "Point",
         "coordinates": [
           129.180708,
-          35.446316
+          35.446321
         ]
       },
       "properties": {
@@ -10769,9 +13391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185238,
-          35.445151,
-          176.9
+          129.185244,
+          35.445143
         ]
       },
       "properties": {
@@ -10787,9 +13408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185003,
-          35.444931,
-          176.9
+          129.185024,
+          35.444926
         ]
       },
       "properties": {
@@ -10805,8 +13425,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184219,
-          35.444885
+          129.18429,
+          35.444871
         ]
       },
       "properties": {
@@ -10821,8 +13441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.186728,
-          35.442909
+          129.186741,
+          35.442903
         ]
       },
       "properties": {
@@ -10838,8 +13458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.186362,
-          35.442789
+          129.186399,
+          35.44281
         ]
       },
       "properties": {
@@ -10855,8 +13475,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187361,
-          35.443132
+          129.187325,
+          35.443136
         ]
       },
       "properties": {
@@ -10871,8 +13491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185521,
-          35.445658
+          129.185527,
+          35.445666
         ]
       },
       "properties": {
@@ -10888,8 +13508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185777,
-          35.445789
+          129.185773,
+          35.445792
         ]
       },
       "properties": {
@@ -10905,8 +13525,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18551,
-          35.446307
+          129.185487,
+          35.446287
         ]
       },
       "properties": {
@@ -10921,8 +13541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.180725,
-          35.44684
+          129.180716,
+          35.44683
         ]
       },
       "properties": {
@@ -10938,7 +13558,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18087,
+          129.180875,
           35.447125
         ]
       },
@@ -10955,8 +13575,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.180941,
-          35.447463
+          129.180951,
+          35.447482
         ]
       },
       "properties": {
@@ -10971,8 +13591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183567,
-          35.44867
+          129.183562,
+          35.448674
         ]
       },
       "properties": {
@@ -10988,8 +13608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.183674,
-          35.448418
+          129.183664,
+          35.448408
         ]
       },
       "properties": {
@@ -11006,7 +13626,7 @@
         "type": "Point",
         "coordinates": [
           129.183435,
-          35.447816
+          35.447829
         ]
       },
       "properties": {
@@ -11021,8 +13641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188065,
-          35.449406
+          129.188057,
+          35.449408
         ]
       },
       "properties": {
@@ -11038,8 +13658,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188259,
-          35.449206
+          129.188239,
+          35.449204
         ]
       },
       "properties": {
@@ -11055,8 +13675,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187988,
-          35.450097
+          129.187966,
+          35.450122
         ]
       },
       "properties": {
@@ -11071,8 +13691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188804,
-          35.449706
+          129.188795,
+          35.449711
         ]
       },
       "properties": {
@@ -11088,8 +13708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.188821,
-          35.449445
+          129.188816,
+          35.449454
         ]
       },
       "properties": {
@@ -11105,8 +13725,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.189143,
-          35.449103
+          129.189113,
+          35.449052
         ]
       },
       "properties": {
@@ -11121,9 +13741,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185951,
-          35.447202,
-          184.3
+          129.185948,
+          35.447209
         ]
       },
       "properties": {
@@ -11139,9 +13758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.185678,
-          35.447408,
-          184.3
+          129.18568,
+          35.447416
         ]
       },
       "properties": {
@@ -11157,8 +13775,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.184795,
-          35.447444
+          129.184755,
+          35.447371
         ]
       },
       "properties": {
@@ -11173,8 +13791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187117,
-          35.445253
+          129.187091,
+          35.445271
         ]
       },
       "properties": {
@@ -11190,8 +13808,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.186974,
-          35.44501
+          129.186996,
+          35.444999
         ]
       },
       "properties": {
@@ -11207,8 +13825,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187491,
-          35.445808
+          129.187472,
+          35.445839
         ]
       },
       "properties": {
@@ -11223,8 +13841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187117,
-          35.44706
+          129.187137,
+          35.447059
         ]
       },
       "properties": {
@@ -11240,8 +13858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18743,
-          35.447026
+          129.187441,
+          35.447011
         ]
       },
       "properties": {
@@ -11257,8 +13875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.18798,
-          35.446691
+          129.187996,
+          35.446655
         ]
       },
       "properties": {
@@ -11273,8 +13891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187772,
-          35.443394
+          129.187776,
+          35.443383
         ]
       },
       "properties": {
@@ -11290,14 +13908,464 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.187479,
-          35.443497
+          129.187471,
+          35.443492
         ]
       },
       "properties": {
         "courseId": "ulsan",
         "course": "울산CC",
         "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187873,
+          35.440196
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 19,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.189242,
+          35.437301
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 19,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188969,
+          35.437303
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 19,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188836,
+          35.436539
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 20,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.184085,
+          35.436361
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 20,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.18408,
+          35.436617
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 20,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.182517,
+          35.435188
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 21,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.179156,
+          35.434633
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 21,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.179325,
+          35.434828
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 21,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.178817,
+          35.435058
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.178756,
+          35.436359
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 22,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.179071,
+          35.436356
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 22,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.179955,
+          35.436729
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.180258,
+          35.439441
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 23,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.180467,
+          35.439384
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 23,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.180999,
+          35.439095
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.180237,
+          35.43523
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 24,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.17991,
+          35.435243
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 24,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.181253,
+          35.43575
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.182297,
+          35.438653
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 25,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.182576,
+          35.438576
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 25,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.183332,
+          35.43857
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.183517,
+          35.437244
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 26,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.183225,
+          35.437238
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 26,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.184729,
+          35.43733
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.186746,
+          35.440146
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 27,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187006,
+          35.440006
+        ]
+      },
+      "properties": {
+        "courseId": "ulsan",
+        "course": "울산CC",
+        "hole": 27,
         "type": "green",
         "label": "B"
       }

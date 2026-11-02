@@ -1,8 +1,32 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-01T23:29:21Z",
+  "updatedAt": "2026-11-02T07:34:11Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
+    {
+      "id": "awon-cc",
+      "name": "에이원CC",
+      "aliases": [],
+      "holeCount": 27,
+      "updatedAt": "2026-11-02T07:16:56Z",
+      "file": "courses/awon-cc.json",
+      "location": {
+        "lat": 35.376248,
+        "lon": 129.174101
+      }
+    },
+    {
+      "id": "beiseutajeu-cc",
+      "name": "베이스타즈CC",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-02T07:00:10Z",
+      "file": "courses/beiseutajeu-cc.json",
+      "location": {
+        "lat": 35.589336,
+        "lon": 129.435372
+      }
+    },
     {
       "id": "bnbk-pa-3",
       "name": "BNBK파3",
@@ -69,6 +93,18 @@
       "location": {
         "lat": 35.868203,
         "lon": 129.259937
+      }
+    },
+    {
+      "id": "haeundae-cc",
+      "name": "해운대CC",
+      "aliases": [],
+      "holeCount": 27,
+      "updatedAt": "2026-11-02T07:28:27Z",
+      "file": "courses/haeundae-cc.json",
+      "location": {
+        "lat": 35.364627,
+        "lon": 129.198945
       }
     },
     {
@@ -143,11 +179,11 @@
       "name": "스톤게이트CC",
       "aliases": [],
       "holeCount": 18,
-      "updatedAt": "2026-10-30T13:21:48Z",
+      "updatedAt": "2026-11-02T07:33:02Z",
       "file": "courses/seutongeiteu-cc.json",
       "location": {
-        "lat": 35.286628,
-        "lon": 129.1981
+        "lat": 35.28665,
+        "lon": 129.197996
       }
     },
     {
@@ -170,12 +206,12 @@
       "aliases": [
         "울산"
       ],
-      "holeCount": 18,
-      "updatedAt": "2026-10-30T13:21:48Z",
+      "holeCount": 27,
+      "updatedAt": "2026-11-02T07:09:29Z",
       "file": "courses/ulsan.json",
       "location": {
-        "lat": 35.444854,
-        "lon": 129.184795
+        "lat": 35.44231,
+        "lon": 129.184132
       }
     },
     {
