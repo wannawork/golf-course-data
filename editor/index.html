@@ -6,6 +6,7 @@
 <title>코스 좌표 편집기</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 <style>
 :root{
   --bg:#f5f4ef; --panel:#ffffff; --ink:#1c1f1a; --muted:#6b6f66; --line:#e2e0d8;
@@ -76,6 +77,10 @@ button.small{padding:4px 8px;font-size:12px}
 .mapwrap{position:relative;height:100%}
 .measure-btn{position:absolute;right:10px;bottom:28px;z-index:1000;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-size:13px;box-shadow:0 2px 10px rgba(0,0,0,.15)}
 .measure-btn.on{background:#d97706;color:#fff;border-color:#d97706}
+.rl{border:1px solid var(--line);border-radius:8px;padding:6px 8px;margin-top:6px;font-size:12px}
+.rl.off{opacity:.5}
+.rl select{width:auto;padding:2px 4px;font-size:12px}
+.rl .nm{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:4px}
 .mlbl{background:#fff;color:#1b1f1c;border:1px solid #d97706;border-radius:6px;font-size:12px;font-weight:600;padding:2px 6px;box-shadow:none;white-space:nowrap}
 .leaflet-tooltip.mlbl:before{display:none}
 @media (max-width:820px){
@@ -144,15 +149,20 @@ button.small{padding:4px 8px;font-size:12px}
   </section>
 
   <section>
-    <h2>라운드 기록 겹쳐보기</h2>
-    <div class="hint" style="margin-top:0">앱이 Drive(GolfApp_Records)에 저장한 라운드 .json 을 열면 티샷·홀컵 위치가 홀 번호와 함께 지도에 표시됩니다. 홀 번호를 맞추는 데 쓰세요.</div>
+    <h2>라운드 기록 (핸드폰)</h2>
+    <div class="hint" style="margin-top:0">핸드폰 앱 <b>과거 라운드 → 전체 내보내기(zip)</b> 또는 라운드별 <b>파일 저장(.json)</b> 파일을 여세요. 티샷·샷·홀컵 위치가 지도에 표시되고, 코스(전반/후반)가 잘못 잡혔으면 아래에서 바꿀 수 있습니다.</div>
     <div class="row" style="margin-top:8px">
       <button id="roundBtn" class="small">기록 파일 열기</button>
-      <button id="fillBtn" class="small">빈 홀 기록으로 채우기</button>
-      <button id="roundClear" class="small">숨기기</button>
+      <button id="roundClear" class="small">닫기</button>
     </div>
-    <input type="file" id="roundFile" accept=".json,application/json" multiple hidden>
+    <input type="file" id="roundFile" accept=".json,.zip,application/json,application/zip" multiple hidden>
     <div class="hint" id="roundInfo"></div>
+    <div id="roundList"></div>
+    <div class="row" style="margin-top:8px">
+      <button id="fillBtn" class="small">빈 홀 기록으로 채우기</button>
+      <button id="altBtn" class="small primary">기록으로 높이 채우기</button>
+    </div>
+    <div class="hint">높이: 기록의 GPS 고도로 티박스·그린 높이를 넣습니다(티 근처 25m 안의 티샷, 그린 근처의 홀컵·퍼팅 위치 중앙값). 앱은 높이가 있으면 오르막/내리막을 반영한 거리를 계산합니다.</div>
   </section>
 
   <section>
@@ -316,14 +326,14 @@ function draw(){
     const n=+k, h=course.holes[k], isSel = n===sel;
     (h.tees||[]).forEach((p,i) => {
       const m=L.marker([p.lat,p.lon], { icon:teeIcon(n,isSel), draggable:true, zIndexOffset:isSel?1000:0 }).addTo(drawLayer);
-      m.on('dragend', e => { const ll=e.target.getLatLng(); p.lat=r6(ll.lat); p.lon=r6(ll.lng); delete p.alt; changed(); });
+      m.on('dragend', e => { moveKeepAlt(p, e.target.getLatLng()); changed(); });
       m.on('contextmenu', () => { h.tees.splice(i,1); changed(); toast(`${n}번 티박스 삭제`); });
       m.on('click', () => selectHole(n));
     });
     (h.greens||[]).forEach((p,i) => {
       const lab = h.greens.length>1 ? (i===0 ? '좌' : '우') : '';
       const m=L.marker([p.lat,p.lon], { icon:greenIcon(n,lab,isSel), draggable:true, zIndexOffset:isSel?1000:0 }).addTo(drawLayer);
-      m.on('dragend', e => { const ll=e.target.getLatLng(); p.lat=r6(ll.lat); p.lon=r6(ll.lng); delete p.alt; changed(); });
+      m.on('dragend', e => { moveKeepAlt(p, e.target.getLatLng()); changed(); });
       m.on('contextmenu', () => { h.greens.splice(i,1); changed(); toast(`${n}번 그린 삭제`); });
       m.on('click', () => selectHole(n));
     });
@@ -335,6 +345,8 @@ function draw(){
     }
   }
 }
+// 끌어서 조금(5m 이하) 옮기면 높이 유지, 멀리 옮기면 높이 지움
+function moveKeepAlt(p, ll){ const q={lat:r6(ll.lat), lon:r6(ll.lng)}; if (dist(p,q)>5) delete p.alt; p.lat=q.lat; p.lon=q.lon; }
 function center(pts){ return { lat:pts.reduce((s,p)=>s+p.lat,0)/pts.length, lon:pts.reduce((s,p)=>s+p.lon,0)/pts.length }; }
 
 // ── 찍기 ──
@@ -464,6 +476,12 @@ function render(){
   info += t ? `티 ✓` : `<span style="color:var(--muted)">티 없음</span>`;
   info += ' · ' + (gs.length ? `그린 ${gs.length}개 ✓` : `<span style="color:var(--muted)">그린 없음</span>`);
   if (t && gs.length) info += ` · 티→그린 <b>${Math.round(dist(t, center(gs)))} m</b>`;
+  const ga = gs.map(g=>g.alt).filter(a=>a!=null);
+  if (t || gs.length){
+    const A = a => a!=null ? `${Math.round(a)}m` : '<span style="color:var(--muted)">없음</span>';
+    info += `<br>높이: 티 ${A(t?.alt)} · 그린 ${gs.length>1 ? gs.map((g,i)=>(i?'우 ':'좌 ')+A(g.alt)).join(' / ') : A(gs[0]?.alt)}`;
+    if (t?.alt!=null && ga.length){ const d=ga[0]-t.alt; info += ` · <b>${d>=0?'+':''}${Math.round(d)}m ${d>1?'오르막':d<-1?'내리막':'평지'}</b>`; }
+  }
   $('holeInfo').innerHTML = info;
   $('par').value = h?.par || '';
   const modeName = { tee:'티박스', ga: ui.twoGreen?'좌그린(A)':'그린', gb:'우그린(B)' }[ui.mode];
@@ -502,8 +520,10 @@ function validate(){
   }
   const missing=[]; for (let n=1;n<=ui.holeCount;n++) if (!course.holes[n]) missing.push(n);
   if (missing.length && missing.length<ui.holeCount) w.push(`좌표 없는 홀: ${missing.join(', ')}`);
-  $('validation').innerHTML = w.length ? `<ul class="warns">${w.map(x=>`<li>${x}</li>`).join('')}</ul>`
-    : (nums.length ? `<div class="ok">문제 없음 · ${nums.length}홀</div>` : `<div class="hint" style="margin:0">아직 찍은 좌표가 없습니다</div>`);
+  let noAlt=0, all=0; for (const n of nums) for (const p of [...(course.holes[n].tees||[]),...(course.holes[n].greens||[])]){ all++; if (p.alt==null) noAlt++; }
+  const altLine = all ? `<div class="hint" style="margin:6px 0 0">높이: ${all-noAlt}/${all}개 점에 있음${noAlt?' — 라운드 기록을 열고 "기록으로 높이 채우기"':''}</div>` : '';
+  $('validation').innerHTML = (w.length ? `<ul class="warns">${w.map(x=>`<li>${x}</li>`).join('')}</ul>`
+    : (nums.length ? `<div class="ok">문제 없음 · ${nums.length}홀</div>` : `<div class="hint" style="margin:0">아직 찍은 좌표가 없습니다</div>`)) + altLine;
   return w;
 }
 
@@ -641,59 +661,137 @@ $('pickSearch').onkeydown = e => {
 $('pickClose').onclick = () => $('pick').hidden = true;
 $('pick').onclick = e => { if (e.target.id==='pick') $('pick').hidden = true; };
 
-// ── 라운드 기록 겹쳐보기 ──
+// ── 라운드 기록 (핸드폰 앱의 .json / 전체 내보내기 .zip) ──
+// 각 라운드: { name, course, date, holes, on(사용 여부), nineMap{친 순서 9홀 → 실제 코스 index} }
+const normName = x => (x||'').replace(/\s+/g,'').toLowerCase();
+function sameCourse(nm){
+  if (!course.name || !nm) return true;
+  return [course.name, ...(course.aliases||[])].some(a => normName(a)===normName(nm));
+}
+function addRound(name, j){
+  if (!j || !Array.isArray(j.holes)) throw 0;
+  if (roundData.some(r => r.id && r.id===j.id)) return false;      // 같은 라운드 중복 방지
+  const nineMap={};
+  for (const h of j.holes){
+    const play=Math.floor((h.holeNumber-1)/9), phys=Math.floor(((h.physicalHole||h.holeNumber)-1)/9);
+    if (!(play in nineMap)) nineMap[play]=phys;
+  }
+  roundData.push({ id:j.id, name, course:j.courseName, date:j.date, holes:j.holes, on:sameCourse(j.courseName), nineMap });
+  return true;
+}
 $('roundBtn').onclick = () => $('roundFile').click();
 $('roundFile').onchange = async e => {
+  let added=0, bad=0;
   for (const f of e.target.files){
     try{
-      const j = JSON.parse(await f.text());
-      if (!Array.isArray(j.holes)) throw 0;
-      roundData.push({ name:f.name, course:j.courseName, date:j.date, holes:j.holes });
-    }catch(err){ toast(`${f.name}: 라운드 기록이 아닙니다`); }
+      if (/\.zip$/i.test(f.name)){
+        if (typeof JSZip==='undefined'){ toast('zip 을 열 수 없습니다(인터넷 연결 확인)'); continue; }
+        const zip = await JSZip.loadAsync(f);
+        for (const ent of Object.values(zip.files)){
+          const base = ent.name.split('/').pop();
+          if (ent.dir || !base.endsWith('.json') || base==='manifest.json' || base.startsWith('._')) continue;
+          try{ if (addRound(base, JSON.parse(await ent.async('string')))) added++; }catch(_){ bad++; }
+        }
+      } else if (addRound(f.name, JSON.parse(await f.text()))) added++;
+    }catch(err){ bad++; }
   }
-  e.target.value=''; drawRounds();
+  e.target.value='';
+  roundData.sort((a,b)=>String(b.date||b.id||'').localeCompare(String(a.date||a.id||'')));
+  toast(`라운드 ${added}개 열림` + (bad?` · ${bad}개는 기록이 아님`:''));
+  drawRounds();
 };
 $('roundClear').onclick = () => { roundData=[]; drawRounds(); };
+// 기록의 홀 → 실제 홀 번호(편집기에서 바꾼 코스 반영)
+function physOf(r, h){
+  const play=Math.floor((h.holeNumber-1)/9), nine=r.nineMap[play];
+  return nine!=null ? nine*9 + ((h.holeNumber-1)%9) + 1 : (h.physicalHole||h.holeNumber);
+}
 function roundPoints(){
-  // 실제 홀 번호별 티샷(첫 위치)·홀컵 모음
+  // 실제 홀 번호별 티샷(첫 위치)·샷·홀컵 모음 (켜진 라운드만)
   const byHole={};
-  for (const r of roundData) for (const h of r.holes){
+  for (const r of roundData) if (r.on) for (const h of r.holes){
     if (h.useAsReference === false) continue;
-    const n = h.physicalHole || h.holeNumber; const o = byHole[n] || (byHole[n]={tees:[],cups:[]});
-    const first=(h.positions||[])[0]; if (first) o.tees.push(first);
+    const n = physOf(r,h); const o = byHole[n] || (byHole[n]={tees:[],shots:[],cups:[]});
+    (h.positions||[]).forEach((p,i) => (i===0 ? o.tees : o.shots).push(p));
     if (h.holeCupPos) o.cups.push(h.holeCupPos);
   }
   return byHole;
 }
+function nineLabel(i){ return (course.nines||[])[i] || `${i+1}코스`; }
+function renderRoundList(){
+  const el=$('roundList'); if (!roundData.length){ el.innerHTML=''; return; }
+  const nNines=Math.max(2, Math.ceil(ui.holeCount/9), ...roundData.flatMap(r=>Object.values(r.nineMap).map(v=>v+1)));
+  el.innerHTML = roundData.map((r,ri) => {
+    const plays=Object.keys(r.nineMap).map(Number).sort((a,b)=>a-b);
+    const sel = p => `<select data-r="${ri}" data-p="${p}">${Array.from({length:nNines},(_,i)=>`<option value="${i}"${r.nineMap[p]===i?' selected':''}>${nineLabel(i)}</option>`).join('')}</select>`;
+    return `<div class="rl${r.on?'':' off'}"><label style="display:flex;gap:6px;align-items:center;margin:0"><input type="checkbox" data-on="${ri}"${r.on?' checked':''}> <b>${r.date||r.id||r.name}</b> · ${r.course||''} · ${r.holes.length}홀</label>`
+      + `<div class="nm">${plays.map(p=>`${['전반','후반','3번째','4번째','5번째','6번째'][p]||(p+1)+'번째'} 9홀 → ${sel(p)}`).join(' ')}</div></div>`;
+  }).join('');
+  el.querySelectorAll('[data-on]').forEach(c => c.onchange = () => { roundData[+c.dataset.on].on=c.checked; drawRounds(); });
+  el.querySelectorAll('select[data-r]').forEach(c => c.onchange = () => { roundData[+c.dataset.r].nineMap[+c.dataset.p]=+c.value; drawRounds(); toast('코스를 바꿨습니다 — 지도의 홀 번호를 확인하세요'); });
+}
 function drawRounds(){
   if (roundLayer){ map.removeLayer(roundLayer); roundLayer=null; }
+  renderRoundList();
   if (!roundData.length){ $('roundInfo').textContent=''; return; }
   roundLayer = L.layerGroup().addTo(map);
   const pts=[];
-  for (const r of roundData) for (const h of r.holes){
-    const n = h.physicalHole || h.holeNumber;
+  for (const r of roundData) if (r.on) for (const h of r.holes){
+    const n = physOf(r,h);
     (h.positions||[]).forEach((p,i) => {
       const c = L.circleMarker([p.lat,p.lon], { radius:i===0?6:4, color:'#fff', weight:1, fillColor:i===0?'#60a5fa':'#a3e635', fillOpacity:.9 }).addTo(roundLayer);
-      c.bindTooltip(`${n}번 ${i===0?'티샷':`${i+1}타`} · ${r.date||r.name}`); pts.push([p.lat,p.lon]);
+      c.bindTooltip(`${n}번 ${i===0?'티샷':`${i+1}타`}${p.alt?` · 높이 ${Math.round(p.alt)}m`:''} · ${r.date||r.name}`); pts.push([p.lat,p.lon]);
     });
     if (h.holeCupPos){
       const c=L.circleMarker([h.holeCupPos.lat,h.holeCupPos.lon], { radius:7, color:'#fff', weight:2, fillColor:'#ef4444', fillOpacity:.95 }).addTo(roundLayer);
       c.bindTooltip(`${n}번`, { permanent:true, direction:'top', className:'lbl', offset:[0,-6] }); pts.push([h.holeCupPos.lat,h.holeCupPos.lon]);
     }
   }
-  $('roundInfo').innerHTML = `${roundData.length}개 라운드 · <span style="color:#60a5fa">●</span> 티샷 <span style="color:#a3e635">●</span> 샷 <span style="color:#ef4444">●</span> 홀컵(번호)`;
+  const on=roundData.filter(r=>r.on).length;
+  $('roundInfo').innerHTML = `${roundData.length}개 라운드 (사용 ${on}) · <span style="color:#60a5fa">●</span> 티샷 <span style="color:#a3e635">●</span> 샷 <span style="color:#ef4444">●</span> 홀컵(번호)`
+    + (on<roundData.length ? '<br>다른 골프장 기록은 꺼져 있습니다(체크하면 사용).' : '');
   if (pts.length && !Object.keys(course.holes).length) map.fitBounds(L.latLngBounds(pts).pad(0.1));
-  if (!course.name && roundData[0].course){ course.name=roundData[0].course; course.id=slug(course.name); changed(); }
+  const first=roundData.find(r=>r.on)||roundData[0];
+  if (!course.name && first.course){ course.name=first.course; course.id=slug(course.name); changed(); }
 }
 $('fillBtn').onclick = () => {
   if (!roundData.length){ toast('먼저 라운드 기록 파일을 여세요'); return; }
   const byHole = roundPoints(); let filled=0;
+  const avg = arr => { const c=center(arr), p={lat:r6(c.lat),lon:r6(c.lon)}; const a=median(arr.map(x=>x.alt)); if (a!=null) p.alt=a; return p; };
   for (const [n,o] of Object.entries(byHole)){
     const h = hole(+n);
-    if (!h.tees?.length && o.tees.length){ const c=center(o.tees); h.tees=[{lat:r6(c.lat),lon:r6(c.lon)}]; filled++; }
-    if (!h.greens?.length && o.cups.length){ const c=center(o.cups); h.greens=[{lat:r6(c.lat),lon:r6(c.lon)}]; filled++; }
+    if (!h.tees?.length && o.tees.length){ h.tees=[avg(o.tees)]; filled++; }
+    if (!h.greens?.length && o.cups.length){ h.greens=[avg(o.cups)]; filled++; }
   }
   changed(); toast(filled ? `${filled}개 위치를 기록 평균으로 채웠습니다 — 위성사진에서 다듬으세요` : '채울 빈 칸이 없습니다');
+};
+// 고도 중앙값(0/없음 제외), 소수 1자리
+function median(arr){
+  const v=arr.filter(a=>typeof a==='number' && isFinite(a) && a!==0).sort((a,b)=>a-b);
+  if (!v.length) return null;
+  const m=v.length>>1, x = v.length%2 ? v[m] : (v[m-1]+v[m])/2;
+  return Math.round(x*10)/10;
+}
+$('altBtn').onclick = () => {
+  if (!roundData.length){ toast('먼저 라운드 기록 파일을 여세요'); return; }
+  if (!Object.keys(course.holes).length){ toast('먼저 골프장 좌표를 여세요'); return; }
+  const byHole = roundPoints(); let set=0, none=0;
+  for (const k of Object.keys(course.holes)){
+    const h=course.holes[k], o=byHole[k] || {tees:[],shots:[],cups:[]};
+    for (const t of (h.tees||[])){
+      const a = median(o.tees.filter(p => dist(p,t)<=25).map(p=>p.alt));
+      if (a!=null){ t.alt=a; set++; } else none++;
+    }
+    const gs=h.greens||[];
+    gs.forEach((g,gi) => {
+      // 그린 근처: 홀컵 30m, 퍼팅/어프로치 끝 위치 15m — 투그린이면 더 가까운 그린 쪽으로만
+      const near = (p,r) => dist(p,g)<=r && gs.every((g2,j)=> j===gi || dist(p,g)<=dist(p,g2));
+      const a = median([...o.cups.filter(p=>near(p,30)), ...o.shots.filter(p=>near(p,15))].map(p=>p.alt));
+      if (a!=null){ g.alt=a; set++; } else none++;
+    });
+  }
+  changed();
+  toast(set ? `높이 ${set}개 채움` + (none?` · ${none}개는 근처 기록 없음`:'') : '근처 기록이 없어 높이를 못 채웠습니다 — 코스(전반/후반)가 맞는지 확인하세요');
 };
 
 // ── 내보내기 ──
