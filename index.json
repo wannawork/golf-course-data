@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-05T05:05:30Z",
+  "updatedAt": "2026-11-05T05:08:00Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -73,7 +73,7 @@
       "name": "골프존카운티더골프",
       "aliases": [],
       "holeCount": 18,
-      "updatedAt": "2026-11-05T05:05:04Z",
+      "updatedAt": "2026-11-05T05:07:42Z",
       "file": "courses/golpeujonkauntideogolpeu.json",
       "location": {
         "lat": 35.362813,
