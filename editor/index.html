@@ -733,8 +733,9 @@ function roundPoints(){
   const byHole={};
   for (const r of roundData) if (r.on) for (const h of r.holes){
     if (h.useAsReference === false) continue;
-    const n = physOf(r,h); const o = byHole[n] || (byHole[n]={tees:[],shots:[],cups:[]});
+    const n = physOf(r,h); const o = byHole[n] || (byHole[n]={tees:[],shots:[],cups:[],lasts:[]});
     (h.positions||[]).forEach((p,i) => (i===0 ? o.tees : o.shots).push(p));
+    if ((h.positions||[]).length >= 2) o.lasts.push(h.positions[h.positions.length-1]);   // 마지막 샷(보통 그린 위 퍼팅)
     if (h.holeCupPos) o.cups.push(h.holeCupPos);
   }
   return byHole;
@@ -742,15 +743,22 @@ function roundPoints(){
 function nineLabel(i){ return (course.nines||[])[i] || `${i+1}코스`; }
 function renderRoundList(){
   const el=$('roundList'); if (!roundData.length){ el.innerHTML=''; return; }
-  const nNines=Math.max(2, Math.ceil(ui.holeCount/9), ...roundData.flatMap(r=>Object.values(r.nineMap).map(v=>v+1)));
+  const nNines=6;   // 1~6코스 전부 — 좌표 없는 코스(새로 도는 코스)도 고를 수 있게
+  const nineHas = i => Object.keys(course.holes).some(k => Math.floor((+k-1)/9)===i);
   el.innerHTML = roundData.map((r,ri) => {
     const plays=Object.keys(r.nineMap).map(Number).sort((a,b)=>a-b);
-    const sel = p => `<select data-r="${ri}" data-p="${p}">${Array.from({length:nNines},(_,i)=>`<option value="${i}"${r.nineMap[p]===i?' selected':''}>${nineLabel(i)}</option>`).join('')}</select>`;
+    const sel = p => `<select data-r="${ri}" data-p="${p}">${Array.from({length:nNines},(_,i)=>`<option value="${i}"${r.nineMap[p]===i?' selected':''}>${nineLabel(i)}${nineHas(i)?'':' (좌표 없음)'}</option>`).join('')}</select>`;
     return `<div class="rl${r.on?'':' off'}"><label style="display:flex;gap:6px;align-items:center;margin:0"><input type="checkbox" data-on="${ri}"${r.on?' checked':''}> <b>${r.date||r.id||r.name}</b> · ${r.course||''} · ${r.holes.length}홀</label>`
       + `<div class="nm">${plays.map(p=>`${['전반','후반','3번째','4번째','5번째','6번째'][p]||(p+1)+'번째'} 9홀 → ${sel(p)}`).join(' ')}</div></div>`;
   }).join('');
   el.querySelectorAll('[data-on]').forEach(c => c.onchange = () => { roundData[+c.dataset.on].on=c.checked; drawRounds(); });
-  el.querySelectorAll('select[data-r]').forEach(c => c.onchange = () => { roundData[+c.dataset.r].nineMap[+c.dataset.p]=+c.value; drawRounds(); toast('코스를 바꿨습니다 — 지도의 홀 번호를 확인하세요'); });
+  el.querySelectorAll('select[data-r]').forEach(c => c.onchange = () => {
+    const v=+c.value; roundData[+c.dataset.r].nineMap[+c.dataset.p]=v;
+    // 코스 수보다 뒤 번호를 고르면 편집기 코스 수를 늘림 (예: 18홀 데이터에 5코스 → 45홀)
+    if ((v+1)*9 > ui.holeCount){ ui.holeCount=(v+1)*9; persist(); }
+    drawRounds(); render();
+    toast(`${nineLabel(v)}로 바꿨습니다 — 지도의 홀 번호를 확인하세요` + (nineHas(v)?'':' · "빈 홀 기록으로 채우기"로 좌표를 만들 수 있어요'));
+  });
 }
 function drawRounds(){
   renderRoundList();
@@ -853,14 +861,15 @@ $('recHoleOnly').onchange = e => { ui.recHoleOnly=e.target.checked; persist(); r
 $('showCourse').checked=ui.showCourse; $('showRec').checked=ui.showRec; $('recHoleOnly').checked=!!ui.recHoleOnly;
 $('fillBtn').onclick = () => {
   if (!roundData.length){ toast('먼저 라운드 기록 파일을 여세요'); return; }
-  const byHole = roundPoints(); let filled=0;
+  const byHole = roundPoints(); let filled=0, guessed=0;
   const avg = arr => { const c=center(arr), p={lat:r6(c.lat),lon:r6(c.lon)}; const a=median(arr.map(x=>x.alt)); if (a!=null) p.alt=a; return p; };
   for (const [n,o] of Object.entries(byHole)){
     const h = hole(+n);
     if (!h.tees?.length && o.tees.length){ h.tees=[avg(o.tees)]; filled++; }
     if (!h.greens?.length && o.cups.length){ h.greens=[avg(o.cups)]; filled++; }
+    else if (!h.greens?.length && o.lasts.length){ h.greens=[avg(o.lasts)]; filled++; guessed++; }   // 홀컵 기록이 없으면 마지막 샷 위치로 대략
   }
-  changed(); toast(filled ? `${filled}개 위치를 기록 평균으로 채웠습니다 — 위성사진에서 다듬으세요` : '채울 빈 칸이 없습니다');
+  changed(); toast(filled ? `${filled}개 위치를 기록으로 채웠습니다` + (guessed?` (그린 ${guessed}개는 홀컵 대신 마지막 샷 위치)`:'') + ' — 위성사진에서 다듬으세요' : '채울 빈 칸이 없습니다');
 };
 // 고도 중앙값(0/없음 제외), 소수 1자리
 function median(arr){
