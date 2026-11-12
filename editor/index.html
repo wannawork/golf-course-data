@@ -822,6 +822,12 @@ function paintRounds(){
       fillColor:color, fillOpacity: cur||ui.showCourse ? .95 : .55 }).addTo(roundLayer);
     c.bindTooltip(`${q.n}번 ${recName(q)}${q.p.alt?` · 높이 ${Math.round(q.p.alt)}m`:''} · ${q.r.date||q.r.name}`);
     if (q.kind==='cup') c.bindTooltip(`${q.n}번`, { permanent:true, direction:'top', className:'lbl', offset:[0,-6] });
+    // 홀 번호 표시: 티샷 옆 "37번 티", 홀컵을 안 찍은 홀은 마지막 샷 옆 "37번 끝"
+    const holeRec = q.r.holes[+q.key.split('|')[1]];
+    const isLast = q.kind==='shot' && q.i === (holeRec.positions||[]).length-1 && !holeRec.holeCupPos;
+    if (q.kind==='tee' || isLast)
+      L.tooltip({ permanent:true, direction:'right', className:'lbl', offset:[7,0], interactive:false })
+        .setLatLng([q.p.lat,q.p.lon]).setContent(`${q.n}번 ${q.kind==='tee'?'티':'끝'}`).addTo(roundLayer);
     c.on('click', ev => { L.DomEvent.stop(ev); if (measuring) return;
       if (ui.hole!==q.n){ pickSel.clear(); ui.hole=q.n; }
       pickSel.has(q.key) ? pickSel.delete(q.key) : pickSel.add(q.key);
