@@ -9499,6 +9499,582 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.276364,
+          35.449927
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.278572,
+          35.452339
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.278242,
+          35.453486
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276104,
+          35.45157
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275587,
+          35.451006
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275544,
+          35.452215
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275208,
+          35.453612
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.277969,
+          35.455382
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.279285,
+          35.455387
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275447,
+          35.453255
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.27475,
+          35.453036
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275061,
+          35.450926
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275941,
+          35.450611
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.278199,
+          35.452881
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.27865,
+          35.453213
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.279393,
+          35.454251
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.279444,
+          35.453759
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.277448,
+          35.449702
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274431,
+          35.450272
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.272575,
+          35.447582
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.271969,
+          35.447662
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.271512,
+          35.445127
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.271585,
+          35.44462
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275372,
+          35.445555
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276324,
+          35.445376
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.27519,
+          35.444545
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275316,
+          35.44387
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.278845,
+          35.44642
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.278306,
+          35.4464
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275882,
+          35.446147
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276292,
+          35.446634
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.277754,
+          35.447784
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276936,
+          35.447766
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.273006,
+          35.445625
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.272875,
+          35.446451
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274398,
+          35.449453
+        ]
+      },
+      "properties": {
+        "courseId": "oreubiseu-gc",
+        "course": "오르비스GC",
+        "hole": 18,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.273564,
           35.691958
         ]

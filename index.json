@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T02:18:28Z",
+  "updatedAt": "2026-11-12T04:33:38Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -160,6 +160,18 @@
       "location": {
         "lat": 35.495908,
         "lon": 128.82709
+      }
+    },
+    {
+      "id": "oreubiseu-gc",
+      "name": "오르비스GC",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-12T04:33:02Z",
+      "file": "courses/oreubiseu-gc.json",
+      "location": {
+        "lat": 35.449551,
+        "lon": 129.275994
       }
     },
     {
