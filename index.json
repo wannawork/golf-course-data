@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-05T05:08:00Z",
+  "updatedAt": "2026-11-12T02:18:28Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -166,12 +166,12 @@
       "id": "seorabeolgolpeukeulreop",
       "name": "서라벌골프클럽",
       "aliases": [],
-      "holeCount": 36,
-      "updatedAt": "2026-11-01T23:26:47Z",
+      "holeCount": 45,
+      "updatedAt": "2026-11-12T02:17:49Z",
       "file": "courses/seorabeolgolpeukeulreop.json",
       "location": {
-        "lat": 35.688685,
-        "lon": 129.278402
+        "lat": 35.69106,
+        "lon": 129.277716
       }
     },
     {

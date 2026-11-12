@@ -9532,7 +9532,8 @@
         "type": "Point",
         "coordinates": [
           129.275536,
-          35.689322
+          35.689322,
+          301.9
         ]
       },
       "properties": {
@@ -9548,7 +9549,8 @@
         "type": "Point",
         "coordinates": [
           129.278376,
-          35.687468
+          35.687468,
+          275
         ]
       },
       "properties": {
@@ -9564,7 +9566,8 @@
         "type": "Point",
         "coordinates": [
           129.278738,
-          35.686949
+          35.686949,
+          271.9
         ]
       },
       "properties": {
@@ -9580,7 +9583,8 @@
         "type": "Point",
         "coordinates": [
           129.278314,
-          35.685838
+          35.685838,
+          269.2
         ]
       },
       "properties": {
@@ -9596,7 +9600,8 @@
         "type": "Point",
         "coordinates": [
           129.278832,
-          35.684908
+          35.684908,
+          282.3
         ]
       },
       "properties": {
@@ -9612,7 +9617,8 @@
         "type": "Point",
         "coordinates": [
           129.275874,
-          35.681577
+          35.681577,
+          308.2
         ]
       },
       "properties": {
@@ -9628,7 +9634,8 @@
         "type": "Point",
         "coordinates": [
           129.276464,
-          35.681605
+          35.681605,
+          296.4
         ]
       },
       "properties": {
@@ -9644,7 +9651,8 @@
         "type": "Point",
         "coordinates": [
           129.279047,
-          35.68434
+          35.68434,
+          267.5
         ]
       },
       "properties": {
@@ -9660,7 +9668,8 @@
         "type": "Point",
         "coordinates": [
           129.279838,
-          35.685024
+          35.685024,
+          249.7
         ]
       },
       "properties": {
@@ -9676,7 +9685,8 @@
         "type": "Point",
         "coordinates": [
           129.281426,
-          35.684584
+          35.684584,
+          231.8
         ]
       },
       "properties": {
@@ -9692,7 +9702,8 @@
         "type": "Point",
         "coordinates": [
           129.282944,
-          35.684172
+          35.684172,
+          220.2
         ]
       },
       "properties": {
@@ -9708,7 +9719,8 @@
         "type": "Point",
         "coordinates": [
           129.279119,
-          35.68635
+          35.68635,
+          253.6
         ]
       },
       "properties": {
@@ -9724,7 +9736,8 @@
         "type": "Point",
         "coordinates": [
           129.279546,
-          35.687224
+          35.687224,
+          257.8
         ]
       },
       "properties": {
@@ -9740,7 +9753,8 @@
         "type": "Point",
         "coordinates": [
           129.276979,
-          35.689415
+          35.689415,
+          285.3
         ]
       },
       "properties": {
@@ -9756,7 +9770,8 @@
         "type": "Point",
         "coordinates": [
           129.276155,
-          35.689716
+          35.689716,
+          289.9
         ]
       },
       "properties": {
@@ -9772,7 +9787,8 @@
         "type": "Point",
         "coordinates": [
           129.274337,
-          35.691653
+          35.691653,
+          319.7
         ]
       },
       "properties": {
@@ -10643,6 +10659,312 @@
         "courseId": "seorabeolgolpeukeulreop",
         "course": "서라벌골프클럽",
         "hole": 36,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.272886,
+          35.696983,
+          322.4
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 37,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.273804,
+          35.700987,
+          285.8
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 37,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.273323,
+          35.702164,
+          269.1
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 38,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274961,
+          35.705041,
+          271.9
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 38,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274693,
+          35.703319,
+          301.7
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 39,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274321,
+          35.701782,
+          299.9
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 39,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274992,
+          35.701905,
+          318.1
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 40,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276228,
+          35.70456,
+          314.3
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 40,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276319,
+          35.703302,
+          333.3
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 41,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275855,
+          35.700771,
+          331.6
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 41,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.274963,
+          35.70087,
+          322.3
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 42,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275892,
+          35.699913,
+          323.4
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 42,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2754,
+          35.699469,
+          313.5
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 43,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2739,
+          35.697391,
+          322.4
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 43,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.275007,
+          35.697322,
+          332
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 44,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.276181,
+          35.699241,
+          338.7
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 44,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.277118,
+          35.698458,
+          354.8
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 45,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.273661,
+          35.6966,
+          339.2
+        ]
+      },
+      "properties": {
+        "courseId": "seorabeolgolpeukeulreop",
+        "course": "서라벌골프클럽",
+        "hole": 45,
         "type": "green"
       }
     },
