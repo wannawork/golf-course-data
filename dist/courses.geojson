@@ -3858,6 +3858,420 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.189324,
+          35.253813
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.192213,
+          35.254725
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 1,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.191821,
+          35.254484
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 1,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.19195,
+          35.255042
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.189203,
+          35.254201
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 2,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.189268,
+          35.254418
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 2,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188624,
+          35.253914
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.189721,
+          35.256904
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 3,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190062,
+          35.257171
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 3,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.18878,
+          35.257445
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188538,
+          35.258509
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188991,
+          35.259392
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190494,
+          35.263577
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 5,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190646,
+          35.263266
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 5,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190233,
+          35.26402
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.19129,
+          35.263794
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.191027,
+          35.26315
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190498,
+          35.260757
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 7,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.190176,
+          35.260562
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 7,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188047,
+          35.258706
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187843,
+          35.255003
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 8,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187518,
+          35.255079
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 8,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.188645,
+          35.255482
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187847,
+          35.2531
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 9,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.187452,
+          35.252669
+        ]
+      },
+      "properties": {
+        "courseId": "gijangdongwonroyal-cc",
+        "course": "기장동원로얄CC",
+        "hole": 9,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.310396,
           35.364297,
           59.5
@@ -6767,6 +7181,582 @@
         "courseId": "haeundae-cc",
         "course": "해운대CC",
         "hole": 27,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.218112,
+          35.224806
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 1,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.214479,
+          35.223211
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 1,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.214151,
+          35.223693
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 2,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.21701,
+          35.225354
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 2,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.216471,
+          35.225679
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 3,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.215049,
+          35.224791
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 3,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.214577,
+          35.225039
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 4,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.216583,
+          35.229143
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 4,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.21719,
+          35.229254
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 5,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.217259,
+          35.22613
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 5,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.218136,
+          35.226093
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 6,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.21852,
+          35.228715
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 6,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.219467,
+          35.229907
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 7,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.220711,
+          35.22971
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 7,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221642,
+          35.229351
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 8,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.223251,
+          35.227361
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 8,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.223348,
+          35.226719
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 9,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221154,
+          35.225543
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 9,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.219496,
+          35.223812
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 10,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.219858,
+          35.221114
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 10,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.219311,
+          35.220194
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 11,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.22066,
+          35.220797
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 11,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221599,
+          35.220939
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 12,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.222849,
+          35.216872
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 12,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.223436,
+          35.217332
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 13,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.222838,
+          35.219804
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 13,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.224174,
+          35.219532
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 14,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.222012,
+          35.222035
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 14,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.222959,
+          35.221439
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 15,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.224284,
+          35.220378
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 15,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.224364,
+          35.221033
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221937,
+          35.225065
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 16,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221095,
+          35.224868
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.221006,
+          35.221834
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 17,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.220336,
+          35.221749
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.220564,
+          35.22434
+        ]
+      },
+      "properties": {
+        "courseId": "haeundaebichigolpeu-rijoteu",
+        "course": "해운대비치골프&리조트",
+        "hole": 18,
         "type": "green"
       }
     },

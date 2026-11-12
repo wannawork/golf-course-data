@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T04:33:38Z",
+  "updatedAt": "2026-11-12T04:49:54Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -69,6 +69,18 @@
       }
     },
     {
+      "id": "gijangdongwonroyal-cc",
+      "name": "기장동원로얄CC",
+      "aliases": [],
+      "holeCount": 9,
+      "updatedAt": "2026-11-12T04:48:42Z",
+      "file": "courses/gijangdongwonroyal-cc.json",
+      "location": {
+        "lat": 35.257567,
+        "lon": 129.189608
+      }
+    },
+    {
       "id": "golpeujonkauntideogolpeu",
       "name": "골프존카운티더골프",
       "aliases": [],
@@ -105,6 +117,18 @@
       "location": {
         "lat": 35.364627,
         "lon": 129.198945
+      }
+    },
+    {
+      "id": "haeundaebichigolpeu-rijoteu",
+      "name": "해운대비치골프&리조트",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-12T04:43:14Z",
+      "file": "courses/haeundaebichigolpeu-rijoteu.json",
+      "location": {
+        "lat": 35.22399,
+        "lon": 129.219997
       }
     },
     {
