@@ -256,7 +256,7 @@ const r6 = x => Math.round(x*1e6)/1e6;
 
 // ── 상태 ──
 function emptyCourse(){ return { schemaVersion:2, id:'', name:'', aliases:[], region:'', nines:[], holes:{}, source:'satellite' }; }
-let course = store.get('ce_current', null) || emptyCourse();
+let course = cleanHoles(store.get('ce_current', null)) || emptyCourse();   // 예전 임시본의 깨진 홀 정리
 let ui = store.get('ce_ui', { hole:1, mode:'tee', holeCount:18, twoGreen:false, view:null });
 let roundLayer = null, roundData = [];   // 라운드 기록 겹쳐보기
 if (ui.mineOnly){ ui.showCourse=false; delete ui.mineOnly; }   // 예전 설정 이전
@@ -264,12 +264,23 @@ if (ui.showCourse===undefined) ui.showCourse=true;
 if (ui.showRec===undefined) ui.showRec=true;
 let pickSel = new Set();                 // 지도/목록에서 고른 내 기록 점 (키: 라운드|홀|순서, 홀컵=-1)
 
+// 비어 있거나 깨진 홀(null 등) 정리 — 예전에 저장된 임시본에 섞여 있으면 화면 그리기가 멈춤
+function cleanHoles(c){
+  if (!c || typeof c!=='object') return c;
+  if (!c.holes || typeof c.holes!=='object' || Array.isArray(c.holes)) c.holes = {};
+  for (const k of Object.keys(c.holes)){
+    const h=c.holes[k];
+    if (!h || typeof h!=='object'){ delete c.holes[k]; continue; }
+    for (const f of ['tees','greens']) if (h[f]!=null) h[f] = (Array.isArray(h[f]) ? h[f] : []).filter(p => p && isFinite(+p.lat) && isFinite(+p.lon));
+  }
+  return c;
+}
 function hole(n){ return course.holes[String(n)] || (course.holes[String(n)] = { tees:[], greens:[] }); }
 function holeIfAny(n){ return course.holes[String(n)]; }
 function persist(){
   // 빈 홀 정리
   for (const k of Object.keys(course.holes)){
-    const h=course.holes[k]; if (!h.tees?.length && !h.greens?.length && !h.par) delete course.holes[k];
+    const h=course.holes[k]; if (!h || typeof h!=='object' || (!h.tees?.length && !h.greens?.length && !h.par)) delete course.holes[k];
   }
   store.set('ce_current', course); store.set('ce_ui', ui);
   if (course.name){
@@ -620,8 +631,9 @@ function loadCourseJson(j, fname){
       if (g.length) c.holes[String(+k)] = { tees:[], greens:g };
     }
   } else { toast('코스 파일 형식이 아닙니다'); return; }
+  cleanHoles(c);
   c._loaded = true; c._origName = c._origName || c.name;
-  persist(); course = c;
+  cleanHoles(course); persist(); course = c;
   const nums=Object.keys(c.holes).map(Number);
   ui.holeCount = Math.min(54, Math.max(9, Math.ceil(Math.max(9,...nums)/9)*9));
   ui.twoGreen = Object.values(c.holes).some(h => (h.greens||[]).length>1);
