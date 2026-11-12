@@ -645,6 +645,19 @@ $('draftBtn').onclick = () => {
 
 // ── 공개 데이터(GitHub)에서 열기 — 어느 PC 에서든 최신 좌표에서 이어서 작업 ──
 const DATA_BASE = 'https://raw.githubusercontent.com/wannawork/golf-course-data/main/';
+// 같은 파일을 GitHub Pages 에서도 제공 — raw 가 막히거나(회사망 등) 잠깐 실패하면 여기서 다시 받음
+const DATA_BASES = [DATA_BASE, 'https://wannawork.github.io/golf-course-data/'];
+async function fetchData(path){
+  let last;
+  for (const base of DATA_BASES){
+    try{
+      const r = await fetch(base + path + (path.includes('?')?'&':'?') + 't=' + Date.now(), { cache:'no-store' });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return await r.json();
+    }catch(err){ last = err; console.warn('데이터 받기 실패', base + path, err); }
+  }
+  throw last;
+}
 let pickData = [], pickActive = 0;
 const norm = t => (t||'').toLowerCase().replace(/[\s_\-.,·()]/g,'');
 function pickRender(){
@@ -659,14 +672,15 @@ function pickRender(){
   $('pickList').querySelectorAll('li[data-i]').forEach(li => li.onclick = () => pickOpen(pickData[+li.dataset.i]));
 }
 async function pickOpen(e){
-  try{
-    const c = await (await fetch(DATA_BASE + e.file, { cache:'no-store' })).json();
-    $('pick').hidden = true; loadCourseJson(c, e.file);
-  }catch(err){ toast('골프장 파일을 불러오지 못했습니다'); }
+  let c;
+  try{ c = await fetchData(e.file); }
+  catch(err){ toast(`골프장 파일을 받지 못했습니다 (${err && err.message || err}) — 인터넷 연결 확인 후 다시 시도하세요`); return; }
+  try{ $('pick').hidden = true; loadCourseJson(c, e.file); }
+  catch(err){ console.error(err); toast(`골프장 파일을 여는 중 오류: ${err && err.message || err}`); }
 }
 $('publicBtn').onclick = async () => {
   try{
-    const idx = await (await fetch(DATA_BASE + 'index.json', { cache:'no-store' })).json();
+    const idx = await fetchData('index.json');
     pickData = (idx.courses || []).slice().sort((a,b) => a.name.localeCompare(b.name, 'ko'));
   }catch(err){ toast('골프장 데이터를 불러오지 못했습니다 — 인터넷 연결을 확인하세요'); return; }
   $('pickSearch').value = ''; pickActive = 0; pickRender(); $('pick').hidden = false;
