@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T04:49:54Z",
+  "updatedAt": "2026-11-17T13:25:02Z",
   "license": "CC BY 4.0 (좌표 데이터) — course-data/README.md 참고",
   "courses": [
     {
@@ -57,6 +57,42 @@
       }
     },
     {
+      "id": "borakeonteurikeulreop",
+      "name": "보라컨트리클럽",
+      "aliases": [],
+      "holeCount": 27,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/borakeonteurikeulreop.json",
+      "location": {
+        "lat": 35.493921,
+        "lon": 129.133279
+      }
+    },
+    {
+      "id": "busankeonteurikeulreop",
+      "name": "부산컨트리클럽",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/busankeonteurikeulreop.json",
+      "location": {
+        "lat": 35.297526,
+        "lon": 129.090255
+      }
+    },
+    {
+      "id": "dongraebeneseuteu-cc",
+      "name": "동래베네스트CC",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/dongraebeneseuteu-cc.json",
+      "location": {
+        "lat": 35.26373,
+        "lon": 129.099841
+      }
+    },
+    {
       "id": "gangdongdianeoseu-cc",
       "name": "강동디아너스CC",
       "aliases": [],
@@ -78,6 +114,30 @@
       "location": {
         "lat": 35.257567,
         "lon": 129.189608
+      }
+    },
+    {
+      "id": "goldeugeurin-gc",
+      "name": "골드그린GC",
+      "aliases": [],
+      "holeCount": 9,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/goldeugeurin-gc.json",
+      "location": {
+        "lat": 35.507753,
+        "lon": 129.074345
+      }
+    },
+    {
+      "id": "golpeujonkaunti-ideun",
+      "name": "골프존카운티 이든",
+      "aliases": [],
+      "holeCount": 18,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/golpeujonkaunti-ideun.json",
+      "location": {
+        "lat": 35.427893,
+        "lon": 128.993879
       }
     },
     {
@@ -234,6 +294,18 @@
       "location": {
         "lat": 35.855119,
         "lon": 129.285598
+      }
+    },
+    {
+      "id": "tongdopainiseuteu-cc",
+      "name": "통도파인이스트CC",
+      "aliases": [],
+      "holeCount": 36,
+      "updatedAt": "2026-11-17T13:24:46Z",
+      "file": "courses/tongdopainiseuteu-cc.json",
+      "location": {
+        "lat": 35.485238,
+        "lon": 129.100552
       }
     },
     {

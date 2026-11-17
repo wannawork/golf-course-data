@@ -2994,6 +2994,3752 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.13254,
+          35.493012
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.132257,
+          35.492923
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131986,
+          35.492881
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131727,
+          35.4928
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.128298,
+          35.493234
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 1,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.128899,
+          35.49282
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1291,
+          35.492725
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.129294,
+          35.492566
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.129656,
+          35.492395
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.130276,
+          35.492064
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133719,
+          35.489644
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 2,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.134337,
+          35.489904
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 3,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131743,
+          35.491874
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 3,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131083,
+          35.492263
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 4,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133008,
+          35.492594
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 4,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13374,
+          35.492075
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 5,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13598,
+          35.489705
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 5,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13612,
+          35.489104
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 6,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.140327,
+          35.491028
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 6,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.141206,
+          35.491131
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 7,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.140068,
+          35.492106
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 7,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.139317,
+          35.4917
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 8,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.136631,
+          35.490601
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 8,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.136374,
+          35.490048
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 9,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.134806,
+          35.492778
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 9,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135355,
+          35.492985
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 10,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13526,
+          35.49317
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 10,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135095,
+          35.493292
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 10,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135103,
+          35.49356
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 10,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.134343,
+          35.496092
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 10,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133553,
+          35.495488
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133459,
+          35.49559
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133481,
+          35.495794
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13343,
+          35.496029
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133316,
+          35.496223
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "label": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133292,
+          35.497079
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 11,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.133384,
+          35.497644
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 12,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.138262,
+          35.497885
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 12,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.138612,
+          35.497384
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 13,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.139697,
+          35.494871
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 13,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.139062,
+          35.494058
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 14,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.138102,
+          35.497035
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 14,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.137166,
+          35.496543
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 15,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.139078,
+          35.492451
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 15,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13847,
+          35.492368
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 16,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.137491,
+          35.493455
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 16,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13682,
+          35.49367
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 17,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135779,
+          35.496771
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 17,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135125,
+          35.496229
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 18,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.135736,
+          35.493608
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 18,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.132667,
+          35.494011
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 19,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.130986,
+          35.498106
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 19,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.130364,
+          35.497455
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 20,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131984,
+          35.494231
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 20,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.131157,
+          35.494064
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 21,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.129795,
+          35.496812
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 21,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.12931,
+          35.496105
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 22,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.127936,
+          35.49625
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 22,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.128126,
+          35.496914
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 23,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.124701,
+          35.495265
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 23,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.124811,
+          35.494783
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 24,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.129605,
+          35.495231
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 24,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.129564,
+          35.4947
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 25,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.126237,
+          35.494437
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 25,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.126495,
+          35.493752
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 26,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.128232,
+          35.494166
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 26,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.127868,
+          35.493684
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 27,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.132204,
+          35.493424
+        ]
+      },
+      "properties": {
+        "courseId": "borakeonteurikeulreop",
+        "course": "보라컨트리클럽",
+        "hole": 27,
+        "type": "green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094243,
+          35.299028
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094086,
+          35.298996
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093937,
+          35.298963
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093698,
+          35.29899
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.090686,
+          35.297426
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.090463,
+          35.297516
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 1,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.090437,
+          35.298368
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.090539,
+          35.298402
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.090665,
+          35.298463
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09121,
+          35.298819
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091916,
+          35.299016
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092007,
+          35.298816
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 2,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092379,
+          35.299632
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 3,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092244,
+          35.299612
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 3,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092117,
+          35.299583
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 3,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088218,
+          35.297394
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 3,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087994,
+          35.297546
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 3,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087767,
+          35.296824
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 4,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087919,
+          35.29683
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 4,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.08806,
+          35.296859
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 4,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091852,
+          35.297508
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 4,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092197,
+          35.297445
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 4,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092702,
+          35.29754
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092647,
+          35.297438
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092547,
+          35.297304
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092474,
+          35.297211
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091841,
+          35.29635
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091586,
+          35.296474
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 5,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091568,
+          35.295564
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 6,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091445,
+          35.295564
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 6,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091324,
+          35.295566
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 6,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088138,
+          35.295538
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 6,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088039,
+          35.295783
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 6,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087897,
+          35.295326
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 7,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088052,
+          35.295276
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 7,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088237,
+          35.295218
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 7,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091174,
+          35.295219
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 7,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091504,
+          35.295121
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 7,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091226,
+          35.294216
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 8,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09138,
+          35.294333
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 8,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091697,
+          35.294672
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 8,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095042,
+          35.297394
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 8,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095251,
+          35.297271
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 8,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094304,
+          35.297175
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 9,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095244,
+          35.299493
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 9,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095495,
+          35.29949
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 9,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09487,
+          35.299256
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 10,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.092335,
+          35.295532
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 10,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09207,
+          35.295655
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 10,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.091083,
+          35.295972
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 11,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087884,
+          35.296105
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 11,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088057,
+          35.296292
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 11,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.08759,
+          35.295192
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 12,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.086958,
+          35.296111
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 12,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087146,
+          35.296244
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 12,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.086528,
+          35.296222
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 13,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.084911,
+          35.298455
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 13,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085203,
+          35.298636
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 13,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085434,
+          35.299178
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 14,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085589,
+          35.298992
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 14,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087426,
+          35.296629
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 14,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087097,
+          35.296655
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 14,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087564,
+          35.297224
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 15,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085903,
+          35.299179
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 15,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085877,
+          35.299383
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 15,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.085598,
+          35.299674
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 16,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.089154,
+          35.300889
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 16,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.089009,
+          35.30055
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 16,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.08917,
+          35.300009
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 17,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088197,
+          35.298844
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 17,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.087996,
+          35.298923
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 17,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.088637,
+          35.298763
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 18,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093047,
+          35.300052
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 18,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093112,
+          35.299728
+        ]
+      },
+      "properties": {
+        "courseId": "busankeonteurikeulreop",
+        "course": "부산컨트리클럽",
+        "hole": 18,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097125,
+          35.264793
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097175,
+          35.264941
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097317,
+          35.265204
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09884,
+          35.267802
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 1,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098867,
+          35.267456
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 1,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098783,
+          35.268788
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099001,
+          35.268937
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099463,
+          35.269082
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102581,
+          35.269821
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 2,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102336,
+          35.269649
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 2,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101865,
+          35.269106
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101892,
+          35.268867
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100472,
+          35.266649
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 3,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100193,
+          35.26671
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 3,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101059,
+          35.266622
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10099,
+          35.266517
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100894,
+          35.266408
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0998,
+          35.265307
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 4,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099492,
+          35.265419
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 4,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100627,
+          35.265518
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100826,
+          35.265585
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101026,
+          35.265759
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102275,
+          35.268277
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 5,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102465,
+          35.268076
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 5,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101716,
+          35.269395
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 6,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101426,
+          35.269244
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 6,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09893,
+          35.265459
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 6,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098622,
+          35.265524
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 6,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097604,
+          35.264839
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097764,
+          35.264741
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097896,
+          35.264676
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100916,
+          35.263595
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 7,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100902,
+          35.263341
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 7,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101577,
+          35.26347
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 8,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100902,
+          35.262368
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 8,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100614,
+          35.262492
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 8,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100728,
+          35.26163
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 9,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097477,
+          35.263947
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 9,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09745,
+          35.264263
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 9,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097139,
+          35.263617
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097339,
+          35.263501
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097463,
+          35.26342
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097773,
+          35.263394
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100452,
+          35.260975
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100155,
+          35.260868
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 10,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10021,
+          35.259819
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 11,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100402,
+          35.260007
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 11,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10197,
+          35.262674
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 11,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102247,
+          35.262572
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 11,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102149,
+          35.263201
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102393,
+          35.263183
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10381,
+          35.263109
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 12,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103319,
+          35.262883
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 13,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103271,
+          35.262728
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 13,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100857,
+          35.259055
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 13,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100385,
+          35.259072
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 13,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101683,
+          35.259068
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 14,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10105,
+          35.257859
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 14,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100771,
+          35.257999
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 14,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100336,
+          35.258398
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 15,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097676,
+          35.257259
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 15,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09737,
+          35.257351
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 15,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096893,
+          35.257477
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 16,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096639,
+          35.260218
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 16,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096745,
+          35.26046
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 16,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096941,
+          35.261048
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 17,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09943,
+          35.259155
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 17,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099231,
+          35.258985
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 17,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099526,
+          35.259685
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 18,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09649,
+          35.26262
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 18,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096678,
+          35.262927
+        ]
+      },
+      "properties": {
+        "courseId": "dongraebeneseuteu-cc",
+        "course": "동래베네스트CC",
+        "hole": 18,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           129.296781,
           35.822985
         ]
@@ -4265,6 +8011,2652 @@
         "hole": 9,
         "type": "green",
         "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.070867,
+          35.506728
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071056,
+          35.5067
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071254,
+          35.506665
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071473,
+          35.506618
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071645,
+          35.506568
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075586,
+          35.505694
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07589,
+          35.505527
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 1,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.076246,
+          35.505926
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.076547,
+          35.50638
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.077358,
+          35.508297
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 2,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.077562,
+          35.508127
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 2,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.077108,
+          35.508797
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.077031,
+          35.508688
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.076949,
+          35.508509
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07687,
+          35.508319
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075745,
+          35.506239
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075492,
+          35.506387
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 3,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074843,
+          35.506414
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 4,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074951,
+          35.506552
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 4,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075134,
+          35.506803
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 4,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.076215,
+          35.508774
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 4,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.076478,
+          35.508706
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 4,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075465,
+          35.508208
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075359,
+          35.508063
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075262,
+          35.50795
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07516,
+          35.507826
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075042,
+          35.507733
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "tee",
+        "label": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074071,
+          35.506828
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073806,
+          35.506937
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 5,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.072649,
+          35.506826
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 6,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.072885,
+          35.506905
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 6,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073123,
+          35.507029
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 6,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075309,
+          35.508979
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 6,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.075542,
+          35.508819
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 6,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074926,
+          35.509206
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 7,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07475,
+          35.509031
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 7,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074581,
+          35.50889
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 7,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.072224,
+          35.507112
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 7,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.072031,
+          35.507291
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 7,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07283,
+          35.508089
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.072997,
+          35.508241
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073167,
+          35.508414
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073314,
+          35.508567
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07349,
+          35.508681
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "tee",
+        "label": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073934,
+          35.509343
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.074232,
+          35.509241
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 8,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073553,
+          35.509597
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 9,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073441,
+          35.50945
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 9,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073294,
+          35.509288
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 9,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071524,
+          35.507627
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 9,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.071352,
+          35.507795
+        ]
+      },
+      "properties": {
+        "courseId": "goldeugeurin-gc",
+        "course": "골드그린GC",
+        "hole": 9,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.989995,
+          35.425534
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990048,
+          35.425243
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990076,
+          35.424911
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990155,
+          35.424466
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 1,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990322,
+          35.422848
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 1,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991088,
+          35.42277
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991188,
+          35.422935
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991301,
+          35.423145
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 2,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991579,
+          35.423357
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 2,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995452,
+          35.424865
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 2,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994835,
+          35.423842
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 3,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99512,
+          35.424004
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 3,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995463,
+          35.424174
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 3,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995677,
+          35.424249
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 3,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997617,
+          35.425798
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 3,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996043,
+          35.425489
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 4,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996241,
+          35.425605
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 4,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996377,
+          35.425735
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 4,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996618,
+          35.425819
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 4,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997522,
+          35.426597
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 4,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.998094,
+          35.426739
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 5,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997898,
+          35.426918
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 5,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997787,
+          35.4271
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 5,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99767,
+          35.42728
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 5,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996983,
+          35.429792
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 5,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997753,
+          35.429871
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 6,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997677,
+          35.430006
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 6,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997602,
+          35.430205
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 6,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.997383,
+          35.430502
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 6,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995049,
+          35.432146
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 6,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994502,
+          35.432072
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 7,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994717,
+          35.431857
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 7,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99485,
+          35.431672
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 7,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994902,
+          35.431561
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 7,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995846,
+          35.430982
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 7,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996396,
+          35.430655
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 8,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996363,
+          35.430404
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 8,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996268,
+          35.430031
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 8,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99613,
+          35.429799
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 8,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.996511,
+          35.426492
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 8,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995873,
+          35.426298
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 9,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995627,
+          35.426156
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 9,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995284,
+          35.425972
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 9,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994941,
+          35.425777
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 9,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991952,
+          35.4252
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 9,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991037,
+          35.425734
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.9913,
+          35.425804
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991657,
+          35.425773
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991952,
+          35.425777
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99234,
+          35.425901
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "tee",
+        "label": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99492,
+          35.426611
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 10,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995757,
+          35.426701
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995509,
+          35.426712
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995621,
+          35.426888
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995436,
+          35.426995
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995344,
+          35.42717
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.995177,
+          35.427409
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "tee",
+        "label": "teal",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994897,
+          35.430813
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 11,
+        "type": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994346,
+          35.430232
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 12,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994365,
+          35.429973
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 12,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994275,
+          35.429789
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 12,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994001,
+          35.429291
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 12,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993595,
+          35.428552
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 12,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992667,
+          35.42843
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 13,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992866,
+          35.4287
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 13,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993026,
+          35.428938
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 13,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993158,
+          35.429355
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 13,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994086,
+          35.431435
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 13,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993956,
+          35.431831
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993801,
+          35.431791
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993544,
+          35.431761
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993421,
+          35.431646
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993106,
+          35.431715
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "tee",
+        "label": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990554,
+          35.430049
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 14,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990793,
+          35.429117
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991104,
+          35.429141
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991151,
+          35.429341
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.99148,
+          35.429522
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991716,
+          35.429717
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "tee",
+        "label": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992117,
+          35.430699
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 15,
+        "type": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992871,
+          35.430885
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 16,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992803,
+          35.430715
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 16,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992699,
+          35.430304
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 16,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.992675,
+          35.430097
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 16,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990377,
+          35.42843
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 16,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.989599,
+          35.428127
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.989819,
+          35.428004
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.989992,
+          35.4279
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.990082,
+          35.427858
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.991021,
+          35.427865
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "tee",
+        "label": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994018,
+          35.427728
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 17,
+        "type": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994662,
+          35.427201
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994355,
+          35.427141
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.994042,
+          35.427033
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993743,
+          35.426957
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.993514,
+          35.426959
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.989188,
+          35.426199
+        ]
+      },
+      "properties": {
+        "courseId": "golpeujonkaunti-ideun",
+        "course": "골프존카운티 이든",
+        "hole": 18,
+        "type": "green",
+        "par": 5
       }
     },
     {
@@ -14940,6 +21332,2656 @@
       "properties": {
         "courseId": "sinra",
         "course": "경주신라CC",
+        "hole": 36,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100751,
+          35.484601
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100827,
+          35.484453
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100884,
+          35.484314
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100955,
+          35.48416
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101142,
+          35.483985
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "tee",
+        "label": "green",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102569,
+          35.481748
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102238,
+          35.48171
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 1,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101541,
+          35.481831
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101395,
+          35.481859
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101247,
+          35.481875
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101069,
+          35.481898
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097336,
+          35.482262
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097371,
+          35.482559
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 2,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09699,
+          35.482029
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096817,
+          35.482055
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096608,
+          35.482061
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096387,
+          35.481923
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096283,
+          35.48215
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "tee",
+        "label": "green",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09501,
+          35.482075
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09516,
+          35.482475
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 3,
+        "type": "green",
+        "label": "C",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095713,
+          35.483433
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095775,
+          35.483599
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09579,
+          35.483731
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095809,
+          35.483929
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095771,
+          35.484196
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095929,
+          35.484225
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "tee",
+        "label": "teal",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095669,
+          35.488144
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095938,
+          35.488066
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 4,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09515,
+          35.488606
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095036,
+          35.488442
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094921,
+          35.48827
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09455,
+          35.487848
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094049,
+          35.485384
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093717,
+          35.485419
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 5,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0948,
+          35.485397
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 6,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094218,
+          35.48204
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 6,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093797,
+          35.482117
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 6,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093019,
+          35.481714
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093281,
+          35.481633
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093443,
+          35.481605
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.093607,
+          35.481568
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "red",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094094,
+          35.481317
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "green",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094676,
+          35.481581
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "tee",
+        "label": "teal",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09914,
+          35.481308
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098985,
+          35.48102
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 7,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099695,
+          35.481298
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 8,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099896,
+          35.481272
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 8,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100082,
+          35.481237
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 8,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101627,
+          35.481247
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 8,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101529,
+          35.480942
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 8,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103417,
+          35.481428
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103373,
+          35.481646
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103296,
+          35.481877
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103055,
+          35.482143
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101486,
+          35.484455
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101759,
+          35.484582
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 9,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102806,
+          35.486646
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102934,
+          35.48656
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103113,
+          35.486454
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10332,
+          35.486186
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "tee",
+        "label": "red",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.106391,
+          35.483774
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.106152,
+          35.483607
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 10,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.107226,
+          35.48395
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 11,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.107155,
+          35.484088
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 11,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.107059,
+          35.484231
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 11,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105493,
+          35.486813
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 11,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105722,
+          35.486926
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 11,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105611,
+          35.487375
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "black",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105413,
+          35.487434
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "blue",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105237,
+          35.487525
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "brown",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104809,
+          35.487566
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "tee",
+        "label": "red",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1038,
+          35.487793
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103801,
+          35.488037
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 12,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103258,
+          35.488456
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 13,
+        "type": "tee",
+        "label": "black",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103402,
+          35.48846
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 13,
+        "type": "tee",
+        "label": "blue",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103651,
+          35.488497
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 13,
+        "type": "tee",
+        "label": "brown",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105889,
+          35.488297
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 13,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105991,
+          35.487961
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 13,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.106413,
+          35.488292
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 14,
+        "type": "tee",
+        "label": "black",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10647,
+          35.48804
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 14,
+        "type": "tee",
+        "label": "blue",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.106506,
+          35.487834
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 14,
+        "type": "tee",
+        "label": "brown",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.108291,
+          35.484746
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 14,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.108121,
+          35.484536
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 14,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10878,
+          35.484877
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 15,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.107538,
+          35.487229
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 15,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.107629,
+          35.487459
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 15,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.106225,
+          35.489411
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 16,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105716,
+          35.49039
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 16,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105943,
+          35.4906
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 16,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105177,
+          35.491278
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 17,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102966,
+          35.48907
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 17,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102844,
+          35.489311
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 17,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10223,
+          35.489136
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 18,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101983,
+          35.48641
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 18,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101479,
+          35.486406
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 18,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100827,
+          35.486456
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 19,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101179,
+          35.489474
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 19,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101439,
+          35.489566
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 19,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100999,
+          35.490182
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 20,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103863,
+          35.492657
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 20,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104215,
+          35.49262
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 20,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10278,
+          35.492137
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 21,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101564,
+          35.491054
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 21,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101399,
+          35.491267
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 21,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100443,
+          35.491726
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 22,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099468,
+          35.494876
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 22,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099768,
+          35.494902
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 22,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099146,
+          35.495305
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 23,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096904,
+          35.49327
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 23,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096811,
+          35.49357
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 23,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095956,
+          35.494167
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 24,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09613,
+          35.489434
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 24,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095741,
+          35.489474
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 24,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09665,
+          35.489477
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 25,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097393,
+          35.492507
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 25,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097716,
+          35.492445
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 25,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098444,
+          35.492711
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 26,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099923,
+          35.491562
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 26,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099715,
+          35.491355
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 26,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.099992,
+          35.490262
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 27,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.100159,
+          35.486846
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 27,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09981,
+          35.486784
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 27,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10238,
+          35.484615
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 28,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104408,
+          35.482086
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 28,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104016,
+          35.482012
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 28,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104022,
+          35.48119
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 29,
+        "type": "tee",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102246,
+          35.480408
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 29,
+        "type": "green",
+        "label": "A",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102144,
+          35.48064
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 29,
+        "type": "green",
+        "label": "B",
+        "par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.101007,
+          35.480256
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 30,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096699,
+          35.478403
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 30,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096544,
+          35.478674
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 30,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.095554,
+          35.4782
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 31,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097428,
+          35.480548
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 31,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.097704,
+          35.48031
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 31,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.096458,
+          35.480644
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 32,
+        "type": "tee",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094497,
+          35.47798
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 32,
+        "type": "green",
+        "label": "A",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.094124,
+          35.477938
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 32,
+        "type": "green",
+        "label": "B",
+        "par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.09441,
+          35.477183
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 33,
+        "type": "tee",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098399,
+          35.478366
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 33,
+        "type": "green",
+        "label": "A",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098685,
+          35.478131
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 33,
+        "type": "green",
+        "label": "B",
+        "par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.098148,
+          35.478735
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 34,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10361,
+          35.480153
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 34,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.103671,
+          35.479865
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 34,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.104536,
+          35.480775
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 35,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105249,
+          35.482169
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 35,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.105577,
+          35.481998
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 35,
+        "type": "green",
+        "label": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.10526,
+          35.48278
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 36,
+        "type": "tee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102788,
+          35.484842
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
+        "hole": 36,
+        "type": "green",
+        "label": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.102981,
+          35.485034
+        ]
+      },
+      "properties": {
+        "courseId": "tongdopainiseuteu-cc",
+        "course": "통도파인이스트CC",
         "hole": 36,
         "type": "green",
         "label": "B"

@@ -51,6 +51,6 @@
 
 1. `tools/course-editor.html` 을 브라우저로 열어 좌표를 찍고 **코스 파일 저장** → `courses/` 에 넣기
 2. `python3 tools/course_data.py validate` — 같은 좌표 두 홀, 비정상 티→그린 거리 등 점검
-3. `python3 tools/course_data.py index` — `index.json` 재생성 + 앱 내장본(app/src/main/assets/course-data) 동기화
+3. `python3 tools/course_data.py index` — `index.json` 재생성 + golf-app 저장소의 앱 내장본(app/src/main/assets/course-data) 동기화 (`--app <golf-app 폴더>`, 기본 ../golf-app)
 4. `python3 tools/course_data.py geojson` — `dist/courses.geojson` 갱신
 5. 이 폴더 내용을 공개 저장소(github.com/wannawork/golf-course-data)에 올리면 앱이 6시간 안에 받아갑니다.
